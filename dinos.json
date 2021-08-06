@@ -1,0 +1,7942 @@
+[
+  {
+    "id": "c4ad6526-3bd1-46a6-8d34-e87c0cc068b6",
+    "name": "Abberant Coelacanth",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Omnivore?",
+    "temperament": "Reactive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "890b9611-b8d7-4622-a010-f09e55a15083",
+    "name": "Aberrant Achatina",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Passive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "e31c7c9e-e385-4b83-b2d0-75e2e996e30c",
+    "name": "Aberrant Anglerfish",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "40b6f04d-edad-4de7-a668-0b742551cff1",
+    "name": "Aberrant Ankylosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "36"
+  },
+  {
+    "id": "50a2963f-76fc-4e95-a589-9fad4d9a6664",
+    "name": "Aberrant Araneo",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "40"
+  },
+  {
+    "id": "50a06cae-54f2-4767-bc8b-b6132af0c3a6",
+    "name": "Aberrant Arthropluera",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carrion-Feeder",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "54"
+  },
+  {
+    "id": "a44d3aaf-af35-45d5-98a7-f2c3550b149b",
+    "name": "Aberrant Baryonyx",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Piscivore",
+    "temperament": "Territorial",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "49"
+  },
+  {
+    "id": "f67351b1-5b39-4c52-8ae8-28a30c6de017",
+    "name": "Aberrant Beelzebufo",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Languorous",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "40"
+  },
+  {
+    "id": "8729f7fd-2edc-4074-b780-f276de624ac7",
+    "name": "Aberrant Carbonemys",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Defensive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "10"
+  },
+  {
+    "id": "cb05ef4c-26a6-4931-b3de-ce1ce43bb8be",
+    "name": "Aberrant Carnotaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "46"
+  },
+  {
+    "id": "20aa1368-a467-43d0-9d34-c51600f83b67",
+    "name": "Aberrant Cnidaria",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "1606b4dd-eea3-4200-aefe-b57e82e645e7",
+    "name": "Aberrant Dimetrodon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Reactive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "016d8959-0630-4910-b349-7b79ccfcdd94",
+    "name": "Aberrant Dimorphodon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Reactive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "7a9b90ae-6573-4edb-bfd6-6728349c5331",
+    "name": "Aberrant Diplocaulus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Piscivore",
+    "temperament": "Skittish",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "509eb149-8978-45d9-b507-caba0d3c5588",
+    "name": "Aberrant Diplodocus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Naive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "32"
+  },
+  {
+    "id": "41b3656d-1b3c-4b09-9af8-34ef365b5cdd",
+    "name": "Aberrant Dire Bear",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Omnivore",
+    "temperament": "Territorial",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "45"
+  },
+  {
+    "id": "01c7436a-b5a6-4a77-a977-9e5558bf1ee6",
+    "name": "Aberrant Dodo",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Oblivious",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "e297e5ae-3316-41a3-9540-841364359d9c",
+    "name": "Aberrant Doedicurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "34"
+  },
+  {
+    "id": "6701b632-d6c6-4232-a57a-6b99809643bc",
+    "name": "Aberrant Dung Beetle",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Coprophagic",
+    "temperament": "Neutral",
+    "tameable": true,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "b61414b5-106c-4568-8ecb-e7816f0607fe",
+    "name": "Aberrant Electrophorus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Extremely Territorial",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "0653c90a-630a-4e0e-8c6a-1f367ba233aa",
+    "name": "Aberrant Equus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Loyal",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "20"
+  },
+  {
+    "id": "b199fe89-3711-462c-a28b-72613622c54e",
+    "name": "Aberrant Gigantopithecus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Territorial",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "4f8a2a7a-d422-4a63-b1d1-818ef4967306",
+    "name": "Aberrant Iguanodon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Reactive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "30"
+  },
+  {
+    "id": "38c2199a-b3cc-4cac-8368-23fe4518ad8c",
+    "name": "Aberrant Lystrosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Loyal",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "752f2e57-bd51-49fd-af67-3ab1cf03dfcb",
+    "name": "Aberrant Manta",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "28"
+  },
+  {
+    "id": "bf5f6ce3-91a3-4d08-a241-2b9e21e37e72",
+    "name": "Aberrant Megalania",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Territorial",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "73"
+  },
+  {
+    "id": "aedd9766-090c-41d9-98a4-ec4c184eb13c",
+    "name": "Aberrant Megalosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Nocturnally Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "57"
+  },
+  {
+    "id": "e39ce5fc-da3a-4535-bc91-6fa56f53d272",
+    "name": "Aberrant Meganeura",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Reactive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "e93d7f42-4db7-40c2-a09e-33904100017c",
+    "name": "Aberrant Moschops",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Omnivore",
+    "temperament": "Cowardly",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "98d5c58c-5fd4-425f-8e96-51403e9eb85c",
+    "name": "Aberrant Otter",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Piscivore",
+    "temperament": "Friendly",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "8b556077-e8cf-47f8-b45d-4d3aaa507668",
+    "name": "Aberrant Ovis",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Stupid",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "bd71ef5e-2ebf-4d8a-9f9e-4e11b8bf2784",
+    "name": "Aberrant Paraceratherium",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "41"
+  },
+  {
+    "id": "a441741f-651c-468c-b681-52d616f9afe8",
+    "name": "Aberrant Parasaur",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Skittish",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "9"
+  },
+  {
+    "id": "2ee90c10-ef7a-4eb7-9ae3-0a5127007590",
+    "name": "Aberrant Piranha",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "fcd0cf25-4844-4e14-a02f-07487884d24f",
+    "name": "Aberrant Pulmonoscorpius",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "22"
+  },
+  {
+    "id": "75463fea-1659-4511-8571-1241f41c9e33",
+    "name": "Aberrant Purlovia",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Patient",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "0b21da55-e070-4d54-92fe-048cd8a10bef",
+    "name": "Aberrant Raptor",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "18"
+  },
+  {
+    "id": "6d8c0b47-5848-4f41-b8dc-aee606a169a3",
+    "name": "Aberrant Salmon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Evasive, Aggressive when attacked",
+    "tameable": true,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "64428b83-3558-4013-be78-bbeb760215d0",
+    "name": "Aberrant Sarco",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Patient",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "35"
+  },
+  {
+    "id": "f4d257de-3913-4f01-a35b-a3ec48165a83",
+    "name": "Aberrant Spino",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Territorial",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "71"
+  },
+  {
+    "id": "0fbc1bdf-26fd-444a-9e81-69afb3c8411e",
+    "name": "Aberrant Stegosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "26"
+  },
+  {
+    "id": "e9e77874-71f8-49fb-9b40-b3ba5fdcde0d",
+    "name": "Aberrant Titanoboa",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "9acfcc67-a7a6-4f3f-aa69-819f0f9fff10",
+    "name": "Aberrant Triceratops",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "16"
+  },
+  {
+    "id": "91197ce2-9f0b-4c9a-8c68-07a66614d895",
+    "name": "Aberrant Trilobite",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Evasive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "5021a636-d6d0-4f3c-bf67-41bc3b0309d9",
+    "name": "Achatina",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Passive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "e62413a8-602f-4c3c-8b5f-7dc5bbdf80c1",
+    "name": "Allosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "67"
+  },
+  {
+    "id": "d5bb9a1b-5a6f-4be6-86fa-c6559bb58158",
+    "name": "Alpha Basilisk",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "378ee12e-8900-41a0-9608-3aec887d1364",
+    "name": "Alpha Blood Crystal Wyvern",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "934d1944-469a-4d5c-b0c0-27d04c960d5a",
+    "name": "Alpha Carnotaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "ba063f8d-4cc7-4f8e-86f9-ff4590fe21d9",
+    "name": "Alpha Corrupted Master Controller",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Unknown",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "94e29244-e919-43cd-8198-d6e5a4f78e84",
+    "name": "Alpha Deathworm",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Extremely Territorial",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "988879ba-c77c-4add-8f43-5447560b84a2",
+    "name": "Alpha Fire Wyvern",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "0e5beeaa-80e9-454f-8025-462796fd8a52",
+    "name": "Alpha Karkinos",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "c62bf918-526a-446b-8f7f-f14176820550",
+    "name": "Alpha King Titan",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Highly Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "5904292d-074a-4bf7-a645-0c4de4401f95",
+    "name": "Alpha Leedsichthys",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Piscivore",
+    "temperament": "Defensive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "ad1cc0db-3a4d-4eca-860b-9e88195115e6",
+    "name": "Alpha Megalodon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "cf90aec8-1b96-4c28-91b1-7ab2b99459f1",
+    "name": "Alpha Moeder, Master of the Ocean",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Unknown",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "1666d841-1045-46a3-a25a-114366f0452b",
+    "name": "Alpha Mosasaur",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "23a448f4-77da-48e9-a391-02f8cc5363ca",
+    "name": "Alpha Raptor",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "2b44f0d1-4bcb-42cd-80c5-c272529e4449",
+    "name": "Alpha Surface Reaper King",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "8ae9d72f-fe9d-45d2-b502-54a23abb8452",
+    "name": "Alpha T-Rex",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "4552df32-68bb-4f0e-b13f-40845d4c0fa9",
+    "name": "Alpha Tusoteuthis",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "c841cdf9-7bc6-44ec-87b4-eece1ad8316a",
+    "name": "Alpha X-Triceratops",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "9fe0d456-1614-4974-afb7-05ef398dc5e6",
+    "name": "Amargasaurus",
+    "releases": [],
+    "diet": "Herbivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "02e19caa-c069-4c0c-be31-858d31bf7f4e",
+    "name": "Ammonite",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Bottom Feeder",
+    "temperament": "Passive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "3f00d75a-4ed3-480e-8d3a-cbbae0b1737e",
+    "name": "Anglerfish",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "7484acdc-6499-4b3f-983b-49c0c4cb7023",
+    "name": "Ankylosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "36"
+  },
+  {
+    "id": "4d125763-9860-4966-9055-81e227854710",
+    "name": "Araneo",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "40"
+  },
+  {
+    "id": "ed318af4-a1d2-48d8-b8a0-d6fa019378a4",
+    "name": "Archaeopteryx",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Fearful",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "079b2830-30ae-4487-af85-c8a2ed396ada",
+    "name": "Argentavis",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carrion-Feeder",
+    "temperament": "Short-Tempered",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "62"
+  },
+  {
+    "id": "e2584506-9a8a-46d5-955a-caa758291022",
+    "name": "Argentustus",
+    "releases": [
+      "Nintendo Switch.svg"
+    ],
+    "diet": "Carrion-Feeder",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "9487e1b1-f109-46fd-9a9f-d2a18b2fa907",
+    "name": "Arthropluera",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carrion-Feeder",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "54"
+  },
+  {
+    "id": "f931c6be-a497-4b48-9218-6e87e9e6e281",
+    "name": "Astrocetus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "e59a2a7b-2018-46a9-bf00-15c733d50ace",
+    "name": "Astrodelphis",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Curious",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "120"
+  },
+  {
+    "id": "dd8f1ee8-a5e1-4c30-940b-c34ce5db54da",
+    "name": "Attack Drone",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Unknown",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "a591a143-b1cc-456c-af9d-5afe7228e229",
+    "name": "Baryonyx",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Piscivore",
+    "temperament": "Territorial",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "49"
+  },
+  {
+    "id": "6d819e86-2ada-4d30-b5f4-efcfb6e4d773",
+    "name": "Basilisk",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "85"
+  },
+  {
+    "id": "0e997cad-a37e-4b30-9da3-a34c4b677347",
+    "name": "Basilisk Ghost",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "84212ea8-4bf0-4f95-b9c6-f852015f8f6f",
+    "name": "Basilosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Piscivore",
+    "temperament": "Passive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "60"
+  },
+  {
+    "id": "b39a4493-cda9-4bd3-bf64-2bd3ee3c4d7c",
+    "name": "Beelzebufo",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Languorous",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "40"
+  },
+  {
+    "id": "70152bf2-211f-44c7-afa3-aca9a28221a9",
+    "name": "Beelzemorbus",
+    "releases": [
+      "Nintendo Switch.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "3abc5b8d-84e4-46ee-bfb0-5379a960692d",
+    "name": "Beta Corrupted Master Controller",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Unknown",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "72d42491-2c41-41e7-9aee-11c08b8a3d77",
+    "name": "Beta King Titan",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Highly Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "e31a6d4b-ff6d-47f8-ada2-8e678994428e",
+    "name": "Beta Moeder, Master of the Ocean",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Unknown",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "1129f25a-6e56-4545-8136-a68127a93b0c",
+    "name": "Blood Crystal Wyvern",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "44d3ab21-7813-4f0e-a96e-4afd928bb7db",
+    "name": "Bloodstalker",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Sanguinivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "f558a005-3605-41ae-b79a-7987084e97c7",
+    "name": "Bone Fire Wyvern",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "13896f0b-2627-4c3d-a073-8b80c683e1bc",
+    "name": "Brontosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "63"
+  },
+  {
+    "id": "320c37db-1c08-4e74-b296-b9ac19ddbb85",
+    "name": "Broodgenetrix",
+    "releases": [
+      "Nintendo Switch.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "5700091a-5274-431d-849d-1578957630ae",
+    "name": "Broodmother Lysrix",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "59e1fb2c-785b-4bd8-92b2-3fb694569ecc",
+    "name": "Broodmother Lysrix (Alpha)",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "d40b37fd-f883-486c-b76d-80e906598e5f",
+    "name": "Broodmother Lysrix (Beta)",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "80af36f1-ef90-4aea-9103-0c94e5e5613c",
+    "name": "Broodmother Lysrix (Gamma)",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "267bde00-f931-4446-a55e-6d7de3430ba4",
+    "name": "Brute Araneo",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "0a6fe988-45bb-4487-9e91-bb473ef85680",
+    "name": "Brute Astrocetus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "73acbc20-2cb4-4d3c-91c3-99d4c2548b5d",
+    "name": "Brute Basilosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "c42bd68c-410a-4f1c-9b18-e9ba50f4e744",
+    "name": "Brute Bloodstalker",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Sanguinivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "0dc55fc3-d212-45ae-8b49-b2c23a40efda",
+    "name": "Brute Ferox",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Omnivore",
+    "temperament": "Reactive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "4d947190-c7b9-4911-81dd-7d754f4b2eec",
+    "name": "Brute Fire Wyvern",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "fadb931b-255f-4a9c-be81-260078829c6b",
+    "name": "Brute Leedsichthys",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Piscivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "2d6d0974-7d01-484c-a330-77ef3953a888",
+    "name": "Brute Magmasaur",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Omnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "e064b3b4-e67a-47a0-8bde-0730ce275447",
+    "name": "Brute Malfunctioned Tek Giganotosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "cb357b64-ab63-4b54-b83b-ad29d343da44",
+    "name": "Brute Malfunctioned Tek Rex",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "6185b647-442c-4124-a6b6-b336bbb6515c",
+    "name": "Brute Mammoth",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "1d7032b1-14d4-4096-86e1-dc7cff1a907a",
+    "name": "Brute Megaloceros",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "ca7157c8-40d7-41f8-87e1-f2373561da60",
+    "name": "Brute Plesiosaur",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "1c105f0b-dce5-4c13-b485-2b3875e5f72e",
+    "name": "Brute Reaper King",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "a957fff8-377d-4433-b9fc-9f4b62d9d0da",
+    "name": "Brute Sarco",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "b8db2fac-d1b1-4573-95d2-b79e331180e2",
+    "name": "Brute Seeker",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "2f91f442-e633-4159-9091-3be897546c26",
+    "name": "Brute Tusoteuthis",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "c813fbba-25ac-439a-91dd-c274e3b9d811",
+    "name": "Brute X-Allosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "5d5f835c-d8a1-4bba-98f0-885563df0123",
+    "name": "Brute X-Megalodon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "c44b235e-b47f-493e-b06b-6cf3e61f9754",
+    "name": "Brute X-Mosasaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "7b893e12-f397-4c34-ac42-0b6144e96eb4",
+    "name": "Brute X-Raptor",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "51e1d623-49a7-4bb4-ad4e-a385dc174e1e",
+    "name": "Brute X-Rex",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "f3f15f15-a622-4357-b135-fb5de5f78c19",
+    "name": "Brute X-Rock Elemental",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Minerals",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "b90f3878-9bdb-4afd-866e-8b8bc3119c92",
+    "name": "Brute X-Spino",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "a8dd17b7-f5bb-49b9-b7a7-abef50167340",
+    "name": "Brute X-Yutyrannus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Angry",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "1ac48d5b-316e-43ef-921b-327c725bdcff",
+    "name": "Bulbdog",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Omnivore",
+    "temperament": "Passive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "0c05a8f9-4316-4f35-b545-e8b7d58ad9ca",
+    "name": "Bulbdog Ghost",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Passive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "ae1304c6-9227-4a64-8dc0-66a126000c79",
+    "name": "Bunny Dodo",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Oblivious",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "188b77c1-d486-475d-8881-50cd44585588",
+    "name": "Bunny Oviraptor",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Skittish",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "f33a9201-ba28-422b-8169-2bc2ba18277a",
+    "name": "Carbonemys",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Defensive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "10"
+  },
+  {
+    "id": "fa5c6033-a7ab-438e-a64d-d608589f7e8b",
+    "name": "Carnotaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "46"
+  },
+  {
+    "id": "b6ffc8b4-937e-473f-8a0c-0ca3538646e3",
+    "name": "Castoroides",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Friendly",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "61"
+  },
+  {
+    "id": "c38ce932-a619-4712-a839-78b006516e40",
+    "name": "Chalicotherium",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Territorial",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "42"
+  },
+  {
+    "id": "a325aafa-3278-4ab6-bd1d-8e4279c8170b",
+    "name": "Chalk Golem",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Minerals",
+    "temperament": "Extremely Territorial",
+    "tameable": true,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "70"
+  },
+  {
+    "id": "2f2aa263-ac8e-4461-8870-e08c425f341b",
+    "name": "Cnidaria",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "535719f7-f549-4808-989d-dc59654c25e2",
+    "name": "Coelacanth",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Omnivore?",
+    "temperament": "Reactive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "34b94ee2-97a5-46bb-a625-6b554dd9de0b",
+    "name": "Compy",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Curious",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "d4884449-bf05-4711-a70b-f742cdcb31e7",
+    "name": "Corrupted Arthropluera",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carrion-Feeder",
+    "temperament": "Highly Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "5ada2725-8210-4764-865a-557ec50aea1b",
+    "name": "Corrupted Avatar",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "e778c94f-ee65-494f-926f-61f18d08f228",
+    "name": "Corrupted Carnotaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Highly Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "e7c0a8b3-4f1e-416c-bf69-5f994830d862",
+    "name": "Corrupted Chalicotherium",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Highly Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "e2c07bf0-7960-4173-aef8-fb3fe2b8a94a",
+    "name": "Corrupted Dilophosaur",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Highly Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "b3f47686-9c07-482c-af91-5c8f5bc95d26",
+    "name": "Corrupted Dimorphodon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Highly Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "be57c50e-f129-4faf-9efb-d12deb70a704",
+    "name": "Corrupted Giganotosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Highly Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "14c7f019-cbe0-4e61-b67d-d6a150b88c0a",
+    "name": "Corrupted Master Controller",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Unknown",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "0471ddaf-8f2c-42a1-9aed-de790ec95184",
+    "name": "Corrupted Paraceratherium",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Highly Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "7af5c981-339f-4175-88dd-001ceb7a8fc9",
+    "name": "Corrupted Pteranodon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Highly Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "6c880b36-dccf-4d87-b9e7-c2697fcf5135",
+    "name": "Corrupted Raptor",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Highly Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "06674c4d-7d5e-4414-8b3a-dd1d34a9deaf",
+    "name": "Corrupted Reaper King",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Highly Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "09a4db44-b052-4251-82a3-d73322ee0dad",
+    "name": "Corrupted Rex",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Highly Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "b02db4f0-216a-42fb-8985-8295853cb034",
+    "name": "Corrupted Rock Drake",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Highly Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "2702ecba-8d56-41b8-bffc-eb00c6c7e18d",
+    "name": "Corrupted Spino",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Highly Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "6ec968f7-1c4a-4d6d-a150-34a6b02c61b3",
+    "name": "Corrupted Stegosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Highly Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "8d17920e-e404-4274-82a8-cbe8aaf24549",
+    "name": "Corrupted Survivor",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "d4740a93-d613-44e8-a8f6-86f3bc0e4d48",
+    "name": "Corrupted Triceratops",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Highly Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "97524617-751c-4e41-bed8-0dfade8bbce0",
+    "name": "Corrupted Wyvern",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Highly Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "c68af35a-df02-4c04-af32-2ecf2143f959",
+    "name": "Crystal Wyvern",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "f7d9c139-d121-42f1-a733-8f76a8d5c4da",
+    "name": "Crystal Wyvern Queen",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "d9c47f89-bb1b-48e9-ae41-68de813ac61d",
+    "name": "Crystal Wyvern Queen (Alpha)",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "9b45934e-041f-44a8-9835-642e24f94203",
+    "name": "Crystal Wyvern Queen (Beta)",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "ab8c9a31-a78d-4a00-bd32-208cbad319fb",
+    "name": "Crystal Wyvern Queen (Gamma)",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "b5d1ecb5-59d0-4323-95d5-a1f966a3348b",
+    "name": "Cubozoa Multis",
+    "releases": [
+      "Nintendo Switch.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "811fe56e-536f-4e68-b350-c59759bf5709",
+    "name": "Daeodon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "59"
+  },
+  {
+    "id": "9e8c228d-07fe-421d-8a71-15f4b61fc605",
+    "name": "Deathworm",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Extremely Territorial",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "634d2740-79e1-44f7-bec3-ef2876c4e27a",
+    "name": "Defense Unit",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Unknown",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "df73ce62-760d-47f6-8009-736866c155f0",
+    "name": "Deinonychus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "32"
+  },
+  {
+    "id": "03eaf437-0bbf-43ae-9425-39454a5b99a3",
+    "name": "Desert Titan",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Highly Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "80c240a1-57af-4180-8bbe-fdae0eb6474a",
+    "name": "Desert Titan Flock",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Unknown",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "407f8a58-460a-49fe-946f-ab7958a573a1",
+    "name": "Dilophosaur",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Territorial",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "9c49d203-80f8-4c8f-92df-65ed0960ec13",
+    "name": "Dimetrodon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Reactive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "52d5a690-88ed-4dcf-b6cf-2be383a960f0",
+    "name": "Dimorphodon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Reactive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "c968c2b4-c5fd-4328-bb8b-1b96f110bad0",
+    "name": "Diplocaulus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Piscivore",
+    "temperament": "Skittish",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "a50a435d-ff2e-4fdd-a012-82c3deab5847",
+    "name": "Diplodocus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Naive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "32"
+  },
+  {
+    "id": "b9057466-45d6-48e4-8d2e-51a1a9a1bea1",
+    "name": "Dire Bear",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Omnivore",
+    "temperament": "Territorial",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "45"
+  },
+  {
+    "id": "766be1f4-053b-4b03-b5d2-eb8f246c2e3c",
+    "name": "Dire Polar Bear",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Omnivore",
+    "temperament": "Territorial",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "45"
+  },
+  {
+    "id": "92adefac-ff36-4bbf-8ff9-6b851265f6c0",
+    "name": "Direwolf",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "7d06176e-4b7f-4582-b0db-fe831fd5a668",
+    "name": "Direwolf Ghost",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "35ca42e6-c4e0-49f4-9213-880925471546",
+    "name": "Diseased Leech",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Sanguinivore",
+    "temperament": "Passive-Aggressive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "ae128cd5-6d24-4dd7-ad60-0d509e7d26e2",
+    "name": "Dodo",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Oblivious",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "8e91b948-cf86-4c0b-b5e8-0069170970f8",
+    "name": "Dodo Wyvern",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "2f87abf8-f052-4a3b-ab1b-3cbd20209226",
+    "name": "Dodobitus",
+    "releases": [
+      "Nintendo Switch.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "bc679107-5962-44ad-a0e0-68cb22e8e911",
+    "name": "DodoRex",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "a2ef28fa-6f2b-4caf-a360-787474c49d0a",
+    "name": "Doedicurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "34"
+  },
+  {
+    "id": "d0722bbe-b930-415d-82fc-ea4104f50010",
+    "name": "Doedicurus Vastus",
+    "releases": [
+      "Nintendo Switch.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "3dc9e3e1-fa78-442b-87bb-7ec7b23516de",
+    "name": "Dragon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "7c37fba5-ee3b-473e-ad9e-760dc51d2e88",
+    "name": "Dragon (Alpha)",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "b02e508d-303e-4916-bcfe-3f16b654c41a",
+    "name": "Dragon (Beta)",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "e27c0f8f-d416-452d-ad39-246f51de1dcc",
+    "name": "Dragon (Gamma)",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "9866f6e7-ef04-4e21-b4d6-82051a5706e8",
+    "name": "Dung Beetle",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Coprophagic",
+    "temperament": "Neutral",
+    "tameable": true,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "4af6e47b-09cc-42a3-8b39-6f703f92a64f",
+    "name": "Dunkleosteus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "44"
+  },
+  {
+    "id": "a8f5fa83-e951-4e90-80ba-78e634630de2",
+    "name": "Eel Minion",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Unknown",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "a3c85dc3-f636-4619-a09d-7543d79e33c1",
+    "name": "Electrophorus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Extremely Territorial",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "fbb1ad2b-4b41-4694-a6ec-228e949846f9",
+    "name": "Elemental Reaper King",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "fe1b37e1-27a5-4855-ba07-af1e5ea9fff9",
+    "name": "Ember Crystal Wyvern",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "c5d4dff2-81c5-4e62-92af-9d2abd2fe593",
+    "name": "Enforcer",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Unknown",
+    "tameable": false,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "6e3809f3-ce33-4bd7-ae45-14fb06e070ba",
+    "name": "Enraged Corrupted Rex",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Highly Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "8da044dd-b166-4269-b566-a278a8208d44",
+    "name": "Enraged Triceratops",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Highly Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "490d4a30-d035-4ec6-b6b6-7f98750fbf95",
+    "name": "Equus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Loyal",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "20"
+  },
+  {
+    "id": "f34a0692-a479-4541-8c16-2edc6f6dd731",
+    "name": "Eurypterid",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "0b227582-6f3f-4e79-96eb-809144a18339",
+    "name": "Exo-Mek",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Unknown",
+    "tameable": false,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "e25e4e3d-7748-4c1f-8bc9-1d52cae833d6",
+    "name": "Experimental Giganotosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "74e2df44-b57e-4a68-bfe0-3b093c74194e",
+    "name": "Featherlight",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Passive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "1348283c-f068-4b3b-b4a8-ecba16e410c2",
+    "name": "Ferox",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Omnivore",
+    "temperament": "Reactive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "a354d9cf-b551-4646-a9b6-4cde08152ae6",
+    "name": "Ferox (Large)",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Omnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "057b393f-d306-48ea-8e4a-afc46626226f",
+    "name": "Fire Wyvern",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "d57899e4-0bfa-47f5-9923-448f1f4ccfd7",
+    "name": "Forest Titan",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Highly Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "601c0d0b-ed58-4469-8092-c2642a1872c7",
+    "name": "Forest Wyvern",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Unknown",
+    "tameable": false,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "3a5bdf32-ac52-46a9-95db-ea84e145af49",
+    "name": "Gacha",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Omnivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "38"
+  },
+  {
+    "id": "5e11984a-26f2-40d2-9e4b-50c83fe0b6fd",
+    "name": "GachaClaus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg"
+    ],
+    "diet": "Omnivore",
+    "temperament": "Docile",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "ef0f0955-e061-4d2b-8ec5-1903f961204c",
+    "name": "Gallimimus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Skittish",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "29"
+  },
+  {
+    "id": "a9a400f7-fc95-4d94-812b-0d25bd824f84",
+    "name": "Gamma Corrupted Master Controller",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Unknown",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "007dab83-378e-41e1-b432-1885222e7274",
+    "name": "Gamma King Titan",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Highly Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "00dde7cf-b249-4501-98ae-5a6dff752d2c",
+    "name": "Gamma Moeder, Master of the Ocean",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Unknown",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "aa9d1473-ff94-4062-8e28-713570ef5086",
+    "name": "Gasbags",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "43"
+  },
+  {
+    "id": "51826e3c-202b-495b-a192-fdf2a0e9f9e0",
+    "name": "Giant Bee",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Territorial",
+    "tameable": true,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "f9eb2a71-685b-422f-a1d2-7d1aa2acbcf6",
+    "name": "Giant Queen Bee",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Territorial",
+    "tameable": true,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "9285b77c-e339-4c3a-9140-29ed09377148",
+    "name": "Giant Worker Bee",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Territorial",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "5c64a910-adf8-427e-a37b-2d1f5fede71c",
+    "name": "Giganotosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Angry",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "96"
+  },
+  {
+    "id": "701e5e00-e8ec-4337-ba3b-d6b919955532",
+    "name": "Gigantopithecus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Territorial",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "f7af6edd-aebf-40b7-8b31-83799a0d182a",
+    "name": "Glowbug",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Passive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "03a1c47e-2483-48ef-b67e-9b3d2bffb802",
+    "name": "Glowtail",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Passive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "9d15bb3d-0b75-4c39-84c9-1eec98e3abcf",
+    "name": "Golden Striped Brute Megalodon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "3072a211-90b8-429b-a641-7c0bd223435e",
+    "name": "Golden Striped Megalodon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "8dab959f-e70c-4e4d-a4b4-fb735d2e1791",
+    "name": "Griffin",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "c871b5ce-2a71-44eb-898c-b8f3d14ce349",
+    "name": "Gula Beetle",
+    "releases": [
+      "Nintendo Switch.svg"
+    ],
+    "diet": "Coprophagic",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "e156c987-3c36-491c-a928-90f80e3b57bb",
+    "name": "Hesperornis",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Piscivore",
+    "temperament": "Flippant",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "1ebadd8b-fc63-4460-9c21-77bd4171f618",
+    "name": "Human",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Omnivore",
+    "temperament": "Varied",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "d43fc886-0bd0-4887-853e-90a626a0f417",
+    "name": "Hyaenodon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Opportunistic",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "474f6d6e-e80b-45ce-baf8-c5d40f5f4f4f",
+    "name": "Ice Golem",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Minerals",
+    "temperament": "Extremely Territorial",
+    "tameable": true,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "70"
+  },
+  {
+    "id": "a87fce50-ceaa-41ea-9492-3ba380b9fbcf",
+    "name": "Ice Titan",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Highly Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "1147bbc8-7c51-401c-b897-4df8908c98c3",
+    "name": "Ice Wyvern",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "0a4c4407-214b-44e0-b9f1-5b9ea300f9f6",
+    "name": "Iceworm Male",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Extremely Territorial",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "8a4d682f-1d03-484e-ad5f-b72dab425e1d",
+    "name": "Iceworm Queen",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Extremely Territorial",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "6eda579b-5dc3-4e83-8d48-b6d1b35d1aae",
+    "name": "Ichthyornis",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Piscivore",
+    "temperament": "Skittish",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "2c367086-02e1-4007-bcde-55b23b493db5",
+    "name": "Ichthyosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Curious",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "13"
+  },
+  {
+    "id": "a7fa0071-a4e1-4f16-ab5a-8423e8109668",
+    "name": "Iguanodon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Reactive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "30"
+  },
+  {
+    "id": "dbd436f3-c08b-4fc3-bb8f-68dee6bf5ceb",
+    "name": "Injured Brute Reaper King",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "eb412754-0036-46d0-94e1-da644da25d71",
+    "name": "Insect Swarm",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "57186377-a8f7-49a4-95e2-c2a16c1033b3",
+    "name": "Jerboa",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Cowardly",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "1f959725-5450-4635-b5a9-ec9f3a83a035",
+    "name": "Jug Bug",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Passive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "2a5fa165-7784-4926-b9a1-4e3c2f82670a",
+    "name": "Kairuku",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Piscivore",
+    "temperament": "Friendly",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "694948bc-2448-4eff-bea7-009a70b589d5",
+    "name": "Kaprosuchus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Patient",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "39"
+  },
+  {
+    "id": "60ae9d01-7fc5-40fc-b58c-a775a17c5341",
+    "name": "Karkinos",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Omnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "65"
+  },
+  {
+    "id": "5a5df66d-1b4c-4f21-bd0a-fd8db84b0658",
+    "name": "Kentrosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Short-Tempered",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "060314e2-d4d0-41e9-b973-b2c1c16fc523",
+    "name": "King Titan",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Highly Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "77322378-5dea-4e2d-b91a-de8eaa07b62f",
+    "name": "Lamprey",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "4dd309cf-9d21-4f98-ba1b-dc3f4249b744",
+    "name": "Lava Elemental",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Minerals",
+    "temperament": "Extremely Territorial",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "a5a566e2-180a-4499-9a26-93af3594a697",
+    "name": "Leech",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Sanguinivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "c3fbfdd6-94da-4588-8583-19418012dab0",
+    "name": "Leedsichthys",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Piscivore",
+    "temperament": "Defensive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "0ab0339d-848f-4119-8c46-867d496a93fe",
+    "name": "Lightning Wyvern",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "8d6b8c2a-eb51-4eb0-9100-838f5e823c93",
+    "name": "Liopleurodon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Sweet Tooth",
+    "temperament": "Elusive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "b235f266-a82d-4486-bae0-81709352b078",
+    "name": "Lymantria",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Evasive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "36"
+  },
+  {
+    "id": "aaa58c73-2079-4dc9-8554-3d3fc5914be9",
+    "name": "Lystrosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Loyal",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "44db6758-b8eb-4958-a84f-b37fef078778",
+    "name": "Macro-Summoner",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "558de0f7-432e-4f39-aca4-98a4dc109e48",
+    "name": "Macrophage",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Unknown",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "2b73ace9-669a-4451-9c59-618e51248cb4",
+    "name": "Maewing",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Omnivore",
+    "temperament": "Skittish",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "19"
+  },
+  {
+    "id": "14cd799f-4555-4958-903e-a8eb45218ae7",
+    "name": "Magmasaur",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Omnivore",
+    "temperament": "Territorial",
+    "tameable": false,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "95"
+  },
+  {
+    "id": "f2c7fb44-0a2d-4495-9064-a519b8025552",
+    "name": "Malfunctioned Attack Drone",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "6401a111-9568-4282-8ca4-6c6b6fd30cf7",
+    "name": "Malfunctioned Defense Unit",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "e3f39e49-1da6-43df-a6bb-98e22a90a1b0",
+    "name": "Malfunctioned Enforcer",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "237e45ed-ba42-4fb7-ae03-2199515cbdef",
+    "name": "Malfunctioned Mek Knight",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Unknown",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "777473da-acff-4ed1-bd78-fc9e56d92dfc",
+    "name": "Malfunctioned Tek Giganotosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "104c07b7-c31a-4217-97b0-85fe92dc68ca",
+    "name": "Malfunctioned Tek Parasaur",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "9757c1b6-7818-4b94-a6ef-b81d560fd1da",
+    "name": "Malfunctioned Tek Quetzal",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "b13e4a81-7ea7-443e-bbe2-a19db41720c2",
+    "name": "Malfunctioned Tek Raptor",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "05f3bcf8-f10b-4587-905a-8805e251bc19",
+    "name": "Malfunctioned Tek Rex",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "2fc58fa4-4175-4be6-b327-36424239d8fa",
+    "name": "Malfunctioned Tek Stegosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "a5c08614-c756-4f18-b3c5-dbfcec40250f",
+    "name": "Malfunctioned Tek Stryder",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Docile",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "daeae941-25de-422d-8013-abffeaedfe3a",
+    "name": "Malfunctioned Tek Triceratops",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "63ce16ca-19a7-4694-a412-87fb3c0e8196",
+    "name": "Mammoth",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "31"
+  },
+  {
+    "id": "0ec920c9-4cc7-4300-a0c5-fb34cbdf8042",
+    "name": "Managarmr",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "66"
+  },
+  {
+    "id": "c4d37653-acfe-4bfd-81ff-49ec81c18171",
+    "name": "Manta",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "28"
+  },
+  {
+    "id": "8093eda7-0c0d-4fbc-a142-e9325b882775",
+    "name": "Manticore",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "e3f6a110-ff64-4e4a-81e4-685594c0f2c8",
+    "name": "Manticore (Alpha)",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "7cbbb14d-a07c-496e-9b15-32476f1fce94",
+    "name": "Manticore (Beta)",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "93a2bbef-43dd-4ce7-9014-5b74c8058d27",
+    "name": "Manticore (Gamma)",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "23fd1cf7-6786-4968-a7bb-2697504cf741",
+    "name": "Mantis",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "45"
+  },
+  {
+    "id": "17e6f39e-4e98-4cb6-a275-05b22d746895",
+    "name": "Mantis Ghost",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "e45c42cf-81ca-49f1-a5fe-53789fad1e23",
+    "name": "Mega Mek",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Unknown",
+    "tameable": true,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "b732e659-3bf1-4a0d-93d8-00f3bca00472",
+    "name": "Megachelon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Omnivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "45"
+  },
+  {
+    "id": "759621d0-117c-4d07-9f28-54ea0b59a159",
+    "name": "Megalania",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Territorial",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "73"
+  },
+  {
+    "id": "5412d3db-be6a-4fc4-bab8-3d6b5b7f9748",
+    "name": "Megaloceros",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Skittish",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "30"
+  },
+  {
+    "id": "2c775d38-daa9-4851-bc33-5d0b98fbcb45",
+    "name": "Megalodon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "47"
+  },
+  {
+    "id": "36b2e73f-74ac-47ea-8974-bfbbc1c9451f",
+    "name": "Megalosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Nocturnally Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "57"
+  },
+  {
+    "id": "d91b39cd-6346-4126-aca7-2fc0e3b2106c",
+    "name": "Meganeura",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Reactive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "58cde199-1664-48f5-88b2-0fb844cda23c",
+    "name": "Megapithecus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "76de69fe-4134-4b71-81c3-f38d389c4432",
+    "name": "Megapithecus (Alpha)",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "b3e7185b-9089-4346-9b5f-729408c24fca",
+    "name": "Megapithecus (Beta)",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "062844ec-3784-4471-9365-b2fec4efb1ec",
+    "name": "Megapithecus (Gamma)",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "0404954b-3c99-4f93-b484-6c284ffd74e5",
+    "name": "Megapithecus Pestis",
+    "releases": [
+      "Nintendo Switch.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "b9d776aa-7d83-407b-8ee0-ae9befa64848",
+    "name": "Megatherium",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Omnivore",
+    "temperament": "Neutral",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "52"
+  },
+  {
+    "id": "88559d47-218e-4ffe-9bd9-6dc5e16ca817",
+    "name": "Mek",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Unknown",
+    "tameable": true,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "d7e10714-741e-46c3-8f93-337ed3213a62",
+    "name": "Mesopithecus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Omnivore",
+    "temperament": "Curious",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "394b7353-edab-4306-bc2a-c1a3264883c5",
+    "name": "Microraptor",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "c15c949c-2f01-4428-8562-63311b8fa8b5",
+    "name": "Moeder, Master of the Ocean",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Unknown",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "36459b8d-3969-4140-8c78-84904026ffc7",
+    "name": "Morellatops",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Defensive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "11"
+  },
+  {
+    "id": "33339bcf-1753-487e-80a8-65667ae1796e",
+    "name": "Mosasaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "78"
+  },
+  {
+    "id": "f9102c37-a3f8-442a-9c78-58fdf047725e",
+    "name": "Moschops",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Omnivore",
+    "temperament": "Cowardly",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "75da430e-5377-4764-8674-d0c4f33b79fb",
+    "name": "Nameless",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "b30aff40-0762-4bfd-810b-80147ab1cf30",
+    "name": "Noctis",
+    "releases": [
+      "Nintendo Switch.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "20"
+  },
+  {
+    "id": "a08f9efc-eb73-4a07-9c99-aa6ddeaac2be",
+    "name": "Noglin",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "728f6fe7-337e-4816-8196-57f43caecfb0",
+    "name": "Obsidioequus",
+    "releases": [
+      "Nintendo Switch.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "f13581c3-65a1-47fb-ad25-78c61fc670f5",
+    "name": "Oil Jug Bug",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Passive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "28f50ee4-2a56-450a-8ba5-45cfc15eae0e",
+    "name": "Onyc",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Omnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "58988f80-4e00-450a-bb09-0f1cd7b442a9",
+    "name": "Otter",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Piscivore",
+    "temperament": "Friendly",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "c4d40501-e58e-4f15-9807-55fae6273b3c",
+    "name": "Overseer",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Unknown",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "ab0ce382-9d4f-481a-a2de-13192112f6e4",
+    "name": "Overseer (Alpha)",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Unknown",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "98475573-b687-4514-923b-99a34e676df4",
+    "name": "Overseer (Beta)",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Unknown",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "9ce900a7-2dd6-48c7-874e-b77736f34a4f",
+    "name": "Overseer (Gamma)",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Unknown",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "87cad872-bdb4-47a0-9b8c-1550415198ab",
+    "name": "Oviraptor",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Skittish",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "5c0eaded-8e8b-40b5-b605-4e409939848d",
+    "name": "Ovis",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Stupid",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "37bad7ef-9a9f-4c50-a7b3-886a7ede119d",
+    "name": "Pachy",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "14"
+  },
+  {
+    "id": "390d73d1-6511-427a-8272-c4b6a2b12060",
+    "name": "Pachyrhinosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Evasive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "27"
+  },
+  {
+    "id": "01a406ff-ebe0-417b-b661-ab65da2049dd",
+    "name": "Paraceratherium",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "41"
+  },
+  {
+    "id": "301749b1-c0b7-439e-a5d1-ae3a3e79f918",
+    "name": "Parakeet Fish School",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "fcf3c7ff-bffc-4e87-aade-3ecb7bbc6121",
+    "name": "Parasaur",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Skittish",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "9"
+  },
+  {
+    "id": "40aa3b2e-b638-4058-806e-1aa52bfc33a4",
+    "name": "Party Dodo",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Oblivious",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "d326286c-1aca-4c8a-a111-27fc435131a4",
+    "name": "Pegomastax",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "c8b1511a-c061-4b89-a37a-f68916741e0d",
+    "name": "Pelagornis",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Piscivore",
+    "temperament": "Skittish",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "43"
+  },
+  {
+    "id": "58fcac24-897b-48ac-825a-05c9cecff0d9",
+    "name": "Phiomia",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Skittish",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "5"
+  },
+  {
+    "id": "b44bb46e-71c8-496d-ba4b-d75ae84b5bc4",
+    "name": "Phoenix",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Flame Eater",
+    "temperament": "Elusive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "c3f912bd-f018-4595-a9ff-94962f495d59",
+    "name": "Piranha",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "08cf6a1e-eaf7-4971-b415-a5ea64445bcb",
+    "name": "Plesiosaur",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "64"
+  },
+  {
+    "id": "a9b1362a-351a-4b15-8cc8-15d17ec2a72a",
+    "name": "Poison Wyvern",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "596d9619-407a-4575-be5a-6ad62c06e69c",
+    "name": "Polar Bear",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Omnivore",
+    "temperament": "Territorial",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "e96291a2-c45e-4d29-8d25-03789b8314e5",
+    "name": "Polar Purlovia",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Patient",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "1bd10ce8-4705-46b3-a1c2-656a01ab2b0e",
+    "name": "Procoptodon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Reactive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "23"
+  },
+  {
+    "id": "fb13d806-f950-46a7-be6a-d20fc3aed7fd",
+    "name": "Pteranodon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Skittish",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "38"
+  },
+  {
+    "id": "647dff25-0279-4bf4-8dd2-d5dc1649bfc5",
+    "name": "Pulmonoscorpius",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "22"
+  },
+  {
+    "id": "8885444f-35cf-4c37-bfc5-5d7fd86e7311",
+    "name": "Purlovia",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Patient",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "95ac34cb-fa6e-425b-ae60-79521426995c",
+    "name": "Quetzal",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Skittish",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "76"
+  },
+  {
+    "id": "42b98e30-3010-4c11-b1ab-f29e02b479b6",
+    "name": "R-Allosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressively Social",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "67"
+  },
+  {
+    "id": "84573d91-d126-45ef-bfc5-773544a27866",
+    "name": "R-Brontosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "63"
+  },
+  {
+    "id": "41a7ce0b-49c3-4234-99d1-862b0b4e2323",
+    "name": "R-Carbonemys",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Defensive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "10"
+  },
+  {
+    "id": "793d98bf-43bb-4528-895d-4024125a2a7e",
+    "name": "R-Carnotaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "46"
+  },
+  {
+    "id": "7ceee364-c7f6-4e98-bea3-630252f20054",
+    "name": "R-Daeodon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "59"
+  },
+  {
+    "id": "01ed7fc4-de3e-453d-8bd6-14513b8145c3",
+    "name": "R-Dilophosaur",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Territorial",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "414fb8c9-ec1b-4589-8b55-fd98e038801e",
+    "name": "R-Direwolf",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "ff7e642c-6e35-4f82-b192-8cdfc59f9c62",
+    "name": "R-Equus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Loyal",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "20"
+  },
+  {
+    "id": "34e96561-bb7d-4a52-95cb-8b4ecd8e03a3",
+    "name": "R-Gasbags",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Omnivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "43"
+  },
+  {
+    "id": "2e72199b-5fa2-4345-bc2b-deeb44940907",
+    "name": "R-Giganotosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Angry",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "96"
+  },
+  {
+    "id": "fd7a49fe-d27a-4bb8-9e0e-0ae8ac599785",
+    "name": "R-Megatherium",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Omnivore",
+    "temperament": "Neutral",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "52"
+  },
+  {
+    "id": "36518e50-6b82-4f75-a169-af660bf97da4",
+    "name": "R-Parasaur",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Skittish",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "9"
+  },
+  {
+    "id": "c39dbef6-3d14-4d8c-90d5-0d73acbc2983",
+    "name": "R-Procoptodon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Reactive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "23"
+  },
+  {
+    "id": "447257b7-bae1-4bc5-bb5e-dc5615ccce89",
+    "name": "R-Quetzal",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Skittish",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "76"
+  },
+  {
+    "id": "64561b11-fe41-4539-9c92-8bfc520d1053",
+    "name": "R-Reaper King",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "c7a6d84c-b429-43fe-9032-a840e410e4fa",
+    "name": "R-Reaper Queen",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "b3ac7e07-f7fb-4fdc-82fc-b564ad35c169",
+    "name": "R-Snow Owl",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "61"
+  },
+  {
+    "id": "fa463d94-c2f0-45c5-b330-9298c3410838",
+    "name": "R-Thylacoleo",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "51"
+  },
+  {
+    "id": "0c0a5df6-22f9-499d-b304-00f6332f2cd9",
+    "name": "R-Velonasaur",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Territorial",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "27"
+  },
+  {
+    "id": "b1dc59d7-f4ac-4410-8c34-91488f11da51",
+    "name": "Raptor",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "18"
+  },
+  {
+    "id": "6ffa7b73-e282-42a9-bfa8-0ac7e22d55a8",
+    "name": "Rare X-Sabertooth Salmon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Unknown",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "c5a82428-dd9f-4baa-96c1-59bc7d1e795d",
+    "name": "Ravager",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "47"
+  },
+  {
+    "id": "054741fd-0c9e-4672-85ff-a1355d2077c7",
+    "name": "Reaper",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "181ccd72-ee42-4242-8c4d-856ff05623d1",
+    "name": "Reaper King",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "c75725ca-3322-4d5e-a870-a34ee51c7a7a",
+    "name": "Reaper Prince",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "234dcaf6-f9e3-41bf-afd6-a343b692bc79",
+    "name": "Reaper Queen",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "a35394ce-5f44-4d1e-ab6e-1e91e14ca65d",
+    "name": "Rex",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "74"
+  },
+  {
+    "id": "4714e7a4-a728-44a8-978e-1916fde45382",
+    "name": "Rex Ghost",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "fba718ec-ae7b-4420-b2f6-4e824e85f08c",
+    "name": "Rock Drake",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Territorial",
+    "tameable": false,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "75"
+  },
+  {
+    "id": "85893839-325f-457a-abdd-89d7f3b32e3d",
+    "name": "Rock Elemental",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Minerals",
+    "temperament": "Extremely Territorial",
+    "tameable": true,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "70"
+  },
+  {
+    "id": "17a7e2cd-3a5b-4e3a-87ad-3cb02e329a2b",
+    "name": "Rockwell",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "2db81f82-b27b-41d8-829f-741916296945",
+    "name": "Rockwell (Alpha)",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "0483fd96-5299-4f78-ae54-eee3bf90cb88",
+    "name": "Rockwell (Beta)",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "43fde43b-6b3f-4823-bfda-7efb6c155790",
+    "name": "Rockwell (Gamma)",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "fdf3b334-3f46-4560-99b6-75da900bacb9",
+    "name": "Rockwell Node",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "abc06d84-c1ed-4206-94c9-5caeaaa9cac5",
+    "name": "Rockwell Node (Alpha)",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "a458804d-e654-43ca-922a-692dbb20a2f5",
+    "name": "Rockwell Node (Beta)",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "c6f359ec-6c44-4ea7-802e-9ed8592427c3",
+    "name": "Rockwell Node (Gamma)",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "1482d400-d76d-4c8d-9e52-c3871b3ced61",
+    "name": "Rockwell Prime",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "b900bc74-20d1-4b54-b936-42abbc645a76",
+    "name": "Rockwell Prime (Alpha)",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "19ea3fa2-c202-4d42-a846-e5ddacab9c5b",
+    "name": "Rockwell Prime (Beta)",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "b33708eb-57b0-434e-bae1-dab59a927073",
+    "name": "Rockwell Prime (Gamma)",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "cb8f2a49-8afd-4e72-a267-fd69c3aef9c3",
+    "name": "Roll Rat",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Neutral",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "58"
+  },
+  {
+    "id": "86ef232a-5f6f-4ec9-8b4e-fab3cb667f41",
+    "name": "Rubble Golem",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Minerals",
+    "temperament": "Extremely Territorial",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "00e31480-d38b-421b-8ab0-ba119997ec0d",
+    "name": "Sabertooth",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "37"
+  },
+  {
+    "id": "fe12eda1-c36e-4607-abcc-9859170c523d",
+    "name": "Sabertooth Salmon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Evasive, Aggressive when attacked",
+    "tameable": true,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "d597f0dc-e240-414b-abf5-164a3773cc4c",
+    "name": "Sarco",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Patient",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "35"
+  },
+  {
+    "id": "b4752ba8-515a-4f08-ba7f-94829520852c",
+    "name": "Scout",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Unknown",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "4e047916-3c0e-4b61-8a98-b805488ac890",
+    "name": "Seeker",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "e7d7b949-8f31-4eaf-a194-72303fae81c8",
+    "name": "Shadowmane",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "052bbe05-abfa-4801-97b0-2b2ee4e1b79a",
+    "name": "Shinehorn",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Passive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "e0d841f4-57cf-42e6-9572-ea057277dd46",
+    "name": "Skeletal Bronto",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Docile",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "e04e7367-ef2e-4a92-ba61-63df346542b4",
+    "name": "Skeletal Carnotaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "a989a466-84d8-4c75-811a-d73227985728",
+    "name": "Skeletal Giganotosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "6cc1daf8-9a2c-47b4-94bb-6e7febe148d7",
+    "name": "Skeletal Jerboa",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Cowardly",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "ae3534c5-d0dd-4a3a-b799-e4f4d8f2ce5c",
+    "name": "Skeletal Quetzal",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Skittish",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "33599d87-4f23-40da-a197-cf87cbeb2a60",
+    "name": "Skeletal Raptor",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "93f3df33-73ad-45ce-ba9b-d550eb5cb3de",
+    "name": "Skeletal Rex",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "9b42d70a-bfb5-4ac4-9571-3c37dd92ce18",
+    "name": "Skeletal Stego",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Docile",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "bf7ef7df-6e4d-4848-a0d6-388c25e4bf63",
+    "name": "Skeletal Trike",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Short-Tempered",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "4cbb7f27-6e08-4373-acd9-aef418a6716c",
+    "name": "Snow Owl",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "61"
+  },
+  {
+    "id": "fff55d42-932e-4271-911e-450951b47646",
+    "name": "Snow Owl Ghost",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "fbfe84bf-611c-4015-a4c9-61ec88d4a12d",
+    "name": "Spino",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Territorial",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "71"
+  },
+  {
+    "id": "a4f5adbb-20b4-4b5c-8a9a-dacae18c32a5",
+    "name": "Spirit Dire Bear",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Omnivore",
+    "temperament": "Territorial",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "45"
+  },
+  {
+    "id": "08e63fae-7f70-4709-bf99-3089336be95c",
+    "name": "Spirit Direwolf",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "5f3f8a23-c4c3-4a89-9fb8-96aef339f197",
+    "name": "Stegosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "26"
+  },
+  {
+    "id": "29fea388-2f70-4e1f-b8da-86b6061035c1",
+    "name": "Subterranean Reaper King",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "00cf1968-e36b-4475-a962-81230f395632",
+    "name": "Summoner",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Unknown",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "d381266b-7555-42ff-bf6e-93853af7dac9",
+    "name": "Super Turkey",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Docile",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "c0de5595-278d-4c22-b3be-943a308ff269",
+    "name": "Surface Reaper King",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "0015994d-1acc-44ff-ad98-0cee9b4501a9",
+    "name": "Surface Reaper King Ghost",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "2d03756e-05bd-4861-b564-839537437fee",
+    "name": "Tapejara",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Skittish",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "55"
+  },
+  {
+    "id": "2d107468-973f-4886-9b67-b89fc71263a0",
+    "name": "Tek Parasaur",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Skittish",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "9"
+  },
+  {
+    "id": "3050f091-a705-4bd4-aef6-2085d2e09c6f",
+    "name": "Tek Quetzal",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Skittish",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "76"
+  },
+  {
+    "id": "9f1daca2-831b-486d-a5df-dfd0a777e46e",
+    "name": "Tek Raptor",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "18"
+  },
+  {
+    "id": "1226ee33-ac80-4aec-a864-318422b3d72d",
+    "name": "Tek Rex",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "74"
+  },
+  {
+    "id": "bd30f733-cad6-4a62-9e71-3b42595d9f14",
+    "name": "Tek Stegosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "26"
+  },
+  {
+    "id": "9381766c-b867-4552-aae3-d10f9e0e111c",
+    "name": "Tek Stryder",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "b2dbc15c-e58d-474b-8f5d-220941c47918",
+    "name": "Tek Triceratops",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "16"
+  },
+  {
+    "id": "54bae1f1-0a12-4a24-98a6-6055e8cf7581",
+    "name": "Terror Bird",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "33"
+  },
+  {
+    "id": "60758300-6340-4e41-a314-cabd95e9ef97",
+    "name": "Therizinosaur",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Territorial",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "69"
+  },
+  {
+    "id": "2e58f5e5-fdc4-4f9e-8e7b-ff0604210724",
+    "name": "Thorny Dragon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Territorial",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "40"
+  },
+  {
+    "id": "32631a01-7790-4d68-89ff-eed0b7692738",
+    "name": "Thylacoleo",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "51"
+  },
+  {
+    "id": "56c1b9ac-2a01-40be-a9e6-80b29d30169d",
+    "name": "Titanoboa",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "0b4dde44-113b-4b76-8708-abbbbc41b0b7",
+    "name": "Titanomyrma",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Short-Tempered",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "b386b5f4-2d1c-452f-ae19-8b449ffcd1e2",
+    "name": "Titanomyrma Drone",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Short-Tempered",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "067967f4-80ed-42d3-85b8-5ae964b4545b",
+    "name": "Titanomyrma Soldier",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Territorial",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "74c7ede1-15cf-4522-bbe4-ccd46347809b",
+    "name": "Titanosaur",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "100"
+  },
+  {
+    "id": "0abc4e81-296d-48fe-8444-47e33dc15669",
+    "name": "Triceratops",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "16"
+  },
+  {
+    "id": "722a2f1c-5f97-4ae4-a06f-c1a525b52ebb",
+    "name": "Trilobite",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Evasive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "edcc362a-aaed-43d2-b2cd-9efc7039186c",
+    "name": "Troodon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Nocturnally Aggressive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "206a34af-ec9a-461e-932f-0ad4246f9443",
+    "name": "Tropeognathus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Piscivore",
+    "temperament": "Neutral",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "65"
+  },
+  {
+    "id": "0b157d86-e5cc-44c7-b262-b80a6f812371",
+    "name": "Tropical Crystal Wyvern",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "bba3118d-04f7-4425-85dd-5c9103fcf647",
+    "name": "Tusoteuthis",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "91"
+  },
+  {
+    "id": "3c56d4e4-3448-411e-8b97-d33033f178df",
+    "name": "Unicorn",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Loyal",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "20"
+  },
+  {
+    "id": "0d529804-83e8-47d9-a778-bfa6d3948808",
+    "name": "Velonasaur",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Territorial",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "27"
+  },
+  {
+    "id": "1607c2b5-afb3-483d-acdb-264aa3ce1eab",
+    "name": "Voidwyrm",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "98b5b90c-72d7-434b-8ccb-2db3f0c6024f",
+    "name": "VR Allosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressively Social",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "67"
+  },
+  {
+    "id": "7547fdf3-0d4d-4d9d-b8f1-8995cdf2caa0",
+    "name": "VR Araneo",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "40"
+  },
+  {
+    "id": "125e6969-8fd4-418f-a55d-fe23b6d3ab70",
+    "name": "VR Argentavis",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carrion-Feeder",
+    "temperament": "Short-Tempered",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "62"
+  },
+  {
+    "id": "203a96ee-8781-4314-87b5-f37f44022ce1",
+    "name": "VR Astrodelphis",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Curious",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "adfa3367-3690-4dcb-ae13-6e3f9f03d799",
+    "name": "VR Bloodstalker",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Sanguinivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "475c8f7a-c39c-49af-8696-f28e1b383ed6",
+    "name": "VR Carnotaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "46"
+  },
+  {
+    "id": "5717f11e-ac19-4787-ad03-8bc33c5f7a2a",
+    "name": "VR Chalicotherium",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Territorial",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "42"
+  },
+  {
+    "id": "8d5720d0-db92-4385-8b63-e756d5cc5368",
+    "name": "VR Dilophosaur",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Territorial",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "75e3a130-ca39-4b60-9389-b294293ba821",
+    "name": "VR Dimorphodon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Reactive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "ddf92bdf-a887-46df-b9a2-d2ba3a1ef979",
+    "name": "VR Enforcer",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Unknown",
+    "tameable": false,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "bb54f5b9-094b-469f-a60e-7bfb4d86e14f",
+    "name": "VR Ferox",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Unknown",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "7f988f6d-340c-4c5d-9701-0cfaba5c3243",
+    "name": "VR Kaprosuchus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Patient",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "39"
+  },
+  {
+    "id": "cdf77fd4-ab5e-43b2-808d-ed863f3f8c23",
+    "name": "VR Karkinos",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Omnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "65"
+  },
+  {
+    "id": "87b39f4c-0cdf-458b-92cf-db3cb9ee02ad",
+    "name": "VR Lymantria",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Evasive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "36"
+  },
+  {
+    "id": "da9a1ff3-ef08-406a-ac97-ac0f4cd96a79",
+    "name": "VR Mantis",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "45"
+  },
+  {
+    "id": "2a4b6b1f-211d-45a3-8632-a728dcf9cdcc",
+    "name": "VR Megalania",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Territorial",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "73"
+  },
+  {
+    "id": "26dfc10d-3fed-4777-9177-0908bf513720",
+    "name": "VR Megatherium",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Omnivore",
+    "temperament": "Neutral",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "52"
+  },
+  {
+    "id": "e484a23b-fe7c-45f3-b81e-2131f623f557",
+    "name": "VR Onyc",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Omnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "96d055f0-18a0-4716-aab5-10e38765cfd7",
+    "name": "VR Pachy",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Passive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "14"
+  },
+  {
+    "id": "bf10e3e3-82b0-4cf6-9397-f51caef9b5f5",
+    "name": "VR Parasaur",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Skittish",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "9"
+  },
+  {
+    "id": "fd88d35b-a2cf-48ec-b43b-a962f8ca2933",
+    "name": "VR Pulmonoscorpius",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "22"
+  },
+  {
+    "id": "753bf523-c4b3-4c66-afcc-c461a532303e",
+    "name": "VR Raptor",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "18"
+  },
+  {
+    "id": "3ee69a91-3d99-4978-bee4-a9e434bb83ad",
+    "name": "VR Ravager",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "47"
+  },
+  {
+    "id": "1b7b8b0f-4238-45d7-bb18-fba19f4ad685",
+    "name": "VR Rex",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "74"
+  },
+  {
+    "id": "1ff2e745-2d4e-4f88-9c47-dd897004ca13",
+    "name": "VR Shadowmane",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "d628cad2-30ed-4828-81bf-b7330e345f6c",
+    "name": "VR Stegosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "26"
+  },
+  {
+    "id": "237c2ed3-7632-4b5b-9e70-d26d37d9b738",
+    "name": "VR Tapejara",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Skittish",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "55"
+  },
+  {
+    "id": "a322e701-9cde-4780-a0fb-f62c5819af9a",
+    "name": "VR Terror Bird",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "33"
+  },
+  {
+    "id": "d64d2a41-b45e-4e7c-bfb8-229645496504",
+    "name": "VR Titanoboa",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "a238dfd8-0761-423b-ad54-c1dd9865fe9c",
+    "name": "VR Triceratops",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "16"
+  },
+  {
+    "id": "59d4db95-6381-47a5-b1b1-ba92016ce406",
+    "name": "VR Velonasaur",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Territorial",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "27"
+  },
+  {
+    "id": "e3037f5b-eb6a-45eb-b33b-e4dcafeccb39",
+    "name": "Vulture",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carrion-Feeder",
+    "temperament": "Neutral",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "9605bd0c-9c54-47c0-a7b0-7219667349d8",
+    "name": "Water Jug Bug",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Passive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "00f0efdd-1b2a-4a56-88d8-70da7764151b",
+    "name": "Woolly Rhino",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Friendly",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "53"
+  },
+  {
+    "id": "a52ea299-3365-413d-a418-ceb7c3e60d51",
+    "name": "Wyvern",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "e4413432-7af5-4a56-9b70-f54f7a4299be",
+    "name": "X-Allosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressively Social",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "67"
+  },
+  {
+    "id": "6437fe5d-f5cc-48f6-863e-2fc78c167f98",
+    "name": "X-Ankylosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "36"
+  },
+  {
+    "id": "915064b5-d262-4420-a226-51b36faf5a9b",
+    "name": "X-Argentavis",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carrion-Feeder",
+    "temperament": "Short-Tempered",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "62"
+  },
+  {
+    "id": "e4d70d47-3645-4981-bf5d-54e0e5b6b50c",
+    "name": "X-Basilosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Piscivore",
+    "temperament": "Passive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "60"
+  },
+  {
+    "id": "e9e84dac-59ed-4be5-a754-f107dd962ea0",
+    "name": "X-Dunkleosteus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "44"
+  },
+  {
+    "id": "59609195-ae9b-40fe-971b-cd53e5e380d4",
+    "name": "X-Ichthyosaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Curious",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "13"
+  },
+  {
+    "id": "4c3b2e6a-d577-4b36-b0bd-184383966f39",
+    "name": "X-Megalodon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "47"
+  },
+  {
+    "id": "b2ad8178-c7b4-4209-85e6-455d95c78f81",
+    "name": "X-Mosasaurus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "78"
+  },
+  {
+    "id": "f78ebb41-cea5-4b59-8591-f115c9caf443",
+    "name": "X-Otter",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Piscivore",
+    "temperament": "Friendly",
+    "tameable": true,
+    "rideable": false,
+    "breedable": true,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "94c3ad16-c341-4a20-96f8-0fe95c0f32be",
+    "name": "X-Paraceratherium",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "41"
+  },
+  {
+    "id": "433e5e8c-5d48-4814-b1f9-0fda2f50f505",
+    "name": "X-Parasaur",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Skittish",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "9"
+  },
+  {
+    "id": "379378a1-abe6-4704-9a0b-204d39324b77",
+    "name": "X-Raptor",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "18"
+  },
+  {
+    "id": "0ffc4dbe-de26-402c-9462-85472808e0cc",
+    "name": "X-Rex",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "74"
+  },
+  {
+    "id": "def56aec-5c35-470f-ace0-11c87b27716f",
+    "name": "X-Rock Elemental",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Minerals",
+    "temperament": "Extremely Territorial",
+    "tameable": true,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "70"
+  },
+  {
+    "id": "a549d875-a19c-4928-9c6f-89dc40da01cd",
+    "name": "X-Sabertooth",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "37"
+  },
+  {
+    "id": "132a8a72-89f6-474b-9073-d5ca07ab815c",
+    "name": "X-Sabertooth Salmon",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Evasive, Aggressive when attacked",
+    "tameable": true,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "Unknown"
+  },
+  {
+    "id": "cf1de90e-94fe-4f1e-8c09-05f8ea0ea1af",
+    "name": "X-Spino",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Territorial",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "71"
+  },
+  {
+    "id": "ac13c205-4e23-4c0c-a178-d174932d48b4",
+    "name": "X-Tapejara",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Skittish",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "55"
+  },
+  {
+    "id": "e8560bcf-a4a7-42ee-9b69-d58759dd0934",
+    "name": "X-Triceratops",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Docile",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "16"
+  },
+  {
+    "id": "29258477-2472-42a6-8a39-f3e3297dd32a",
+    "name": "X-Woolly Rhino",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Friendly",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "53"
+  },
+  {
+    "id": "eecca128-14f9-4665-a873-301a6178b843",
+    "name": "X-Yutyrannus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "80"
+  },
+  {
+    "id": "840eedbf-0860-4aa9-a101-244fcbd6f67b",
+    "name": "Yeti",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Herbivore",
+    "temperament": "Aggressive",
+    "tameable": false,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "N/A"
+  },
+  {
+    "id": "e16cb946-4bfc-42e2-9d45-272a013e5eca",
+    "name": "Yutyrannus",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Nintendo Switch.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": true,
+    "saddle": "80"
+  },
+  {
+    "id": "1757d338-d140-4143-8b05-b850f2953421",
+    "name": "Zombie Fire Wyvern",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "d2d08260-d690-4651-8beb-e51090e20c0a",
+    "name": "Zombie Lightning Wyvern",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "715c76b8-2444-4082-ae91-53075d764771",
+    "name": "Zombie Poison Wyvern",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "1baae159-6eed-4705-b8dc-8f086474bdc1",
+    "name": "Zombie Wyvern",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": true,
+    "breedable": false,
+    "saddle": "Bareback"
+  },
+  {
+    "id": "96225795-7418-4923-a4ea-7660562711eb",
+    "name": "Zomdodo",
+    "releases": [
+      "Steam.svg",
+      "Xbox One.svg",
+      "PS.svg",
+      "Epic Games.svg"
+    ],
+    "diet": "Carnivore",
+    "temperament": "Aggressive",
+    "tameable": true,
+    "rideable": false,
+    "breedable": false,
+    "saddle": "Unknown"
+  }
+]
