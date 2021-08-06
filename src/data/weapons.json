@@ -1,0 +1,482 @@
+[
+  {
+    "id": "2f463f5e-c578-4930-af37-a678b0c4fa62",
+    "name": "Stone Pick",
+    "category": "Melee weapons",
+    "type": "Tool"
+  },
+  {
+    "id": "4ccfe7a2-d44f-42be-b672-a880baaf9e3e",
+    "name": "Stone Hatchet",
+    "category": "Melee weapons",
+    "type": "Tool"
+  },
+  {
+    "id": "4b069d83-b2d5-494c-8bbc-fd4fe220ca79",
+    "name": "Torch",
+    "category": "Melee weapons",
+    "type": "Melee"
+  },
+  {
+    "id": "5ce7a529-c155-405d-bf40-52abe5570500",
+    "name": "Glow Stick",
+    "category": "Tools",
+    "type": "Tool275.0"
+  },
+  {
+    "id": "bb4e0e4b-2035-4995-9a6c-3f9ab2f007e0",
+    "name": "Metal Pick",
+    "category": "Melee weapons",
+    "type": "Tool"
+  },
+  {
+    "id": "c5ed217e-bc42-454a-993a-28ff1a457cdf",
+    "name": "Metal Hatchet",
+    "category": "Melee weapons",
+    "type": "Tool"
+  },
+  {
+    "id": "5a068cbc-bd5e-4de4-900e-61a750412a86",
+    "name": "Metal Sickle",
+    "category": "Melee weapons",
+    "type": "Melee"
+  },
+  {
+    "id": "1ee5afb9-d5ba-4130-977e-0c11a7c51c90",
+    "name": "Climbing Pick",
+    "category": "Melee weapons",
+    "type": "Tool"
+  },
+  {
+    "id": "4fd56f3b-ba28-4c69-8d16-1810a6538513",
+    "name": "Pliers",
+    "category": "Melee weapons",
+    "type": "Tool"
+  },
+  {
+    "id": "2f18dabd-e71a-4568-a8f7-4efb9d3369e8",
+    "name": "Chainsaw",
+    "category": "Weapons",
+    "type": "Tool Gasoline"
+  },
+  {
+    "id": "b7e2cc62-c92d-432d-96f1-420c933b5dcd",
+    "name": "Mining Drill",
+    "category": "Tools",
+    "type": "Tool Gasoline"
+  },
+  {
+    "id": "03360bbd-8239-4344-8111-188213f14f21",
+    "name": "Spear",
+    "category": "Melee weapons",
+    "type": "Melee"
+  },
+  {
+    "id": "a2150227-52ba-41d6-bd5d-978f3beb4790",
+    "name": "Pike",
+    "category": "Melee weapons",
+    "type": "MeleeRPSDPS"
+  },
+  {
+    "id": "eae829f4-d05a-4229-93c6-a30e5917eca2",
+    "name": "Wooden Club",
+    "category": "Melee weapons",
+    "type": "Melee"
+  },
+  {
+    "id": "a45b63cc-2bce-44f0-852c-254362cc07f8",
+    "name": "Sword",
+    "category": "Melee weapons",
+    "type": "MeleeRPSDPS"
+  },
+  {
+    "id": "c7829143-85c5-4e96-8550-e2da3aad7243",
+    "name": "Electric Prod",
+    "category": "Torpor",
+    "type": "Torpor"
+  },
+  {
+    "id": "44223d01-4332-42ef-96aa-9ff49455a832",
+    "name": "Wooden Shield",
+    "category": "Shields",
+    "type": "Shield"
+  },
+  {
+    "id": "dc0ff9d8-af01-44cb-a1eb-0f938225ff6a",
+    "name": "Metal Shield",
+    "category": "Shields",
+    "type": "Shield"
+  },
+  {
+    "id": "09588451-2c6d-49eb-8594-9f4bcc56fdd2",
+    "name": "Riot Shield",
+    "category": "Shields",
+    "type": "Shield"
+  },
+  {
+    "id": "6b5b0874-f063-454d-8fbe-e78e3ac9ce39",
+    "name": "Slingshot",
+    "category": "Ranged weapons",
+    "type": "Weapon StoneTorpor"
+  },
+  {
+    "id": "e0683150-5610-432a-a9ba-d15cbfcb8565",
+    "name": "Boomerang",
+    "category": "Ranged weapons",
+    "type": "Weapon"
+  },
+  {
+    "id": "90167c66-24e7-4f5b-a242-7e15c2fb2826",
+    "name": "Bola",
+    "category": "Weapons",
+    "type": "Ranged"
+  },
+  {
+    "id": "09454c96-db4a-4cb2-92e0-8b167425fade",
+    "name": "Whip",
+    "category": "Ranged weapons",
+    "type": "Ranged"
+  },
+  {
+    "id": "b2fecb68-106d-4952-8d43-b1d4438d9e8a",
+    "name": "Bow",
+    "category": "Bows",
+    "type": "Bow Stone Arrow Tranq Arrow Flame Arrow Feathered Stone Arrow Obsidian Arrow Toxicant Arrow Dodo Arrow"
+  },
+  {
+    "id": "2892812c-a879-4802-8d19-5bedfbd3121c",
+    "name": "Crossbow",
+    "category": "Bows",
+    "type": "Bow Stone Arrow Tranq Arrow Flame Arrow Zip-Line Anchor Feathered Stone Arrow Obsidian Arrow Toxicant ArrowRPSDPS"
+  },
+  {
+    "id": "3edd873c-50a9-4fe8-858e-8cc3457761d0",
+    "name": "Compound Bow",
+    "category": "Bows",
+    "type": "Bow Stone Arrow Flame Arrow Tranquilizer Arrow Metal Arrow Toxicant ArrowRPSDPS"
+  },
+  {
+    "id": "9ceecc80-1158-4809-b29d-8e75b90134a8",
+    "name": "Harpoon Launcher",
+    "category": "Guns",
+    "type": "Gun Spear Bolt Tranq Spear Bolt Net ProjectileRPSDPS"
+  },
+  {
+    "id": "b4f5ebee-a722-481d-b5f5-0e1226c69ffd",
+    "name": "Simple Pistol",
+    "category": "Guns",
+    "type": "Gun Simple BulletRPSDPS Flashlight Laser Scope Silencer"
+  },
+  {
+    "id": "378420c8-3ee9-4f4d-8752-b7c39f056f46",
+    "name": "Longneck Rifle",
+    "category": "Guns",
+    "type": "Gun Simple Rifle Ammo Tranquilizer Dart Shocking Tranquilizer Dart Pheromone DartRPSDPS Flashlight Laser Scope Silencer"
+  },
+  {
+    "id": "242b21e1-9eb6-4b88-aae3-65bd579ec2ca",
+    "name": "Shotgun",
+    "category": "Guns",
+    "type": "Gun Simple Shotgun AmmoRPSDPS"
+  },
+  {
+    "id": "cb1e03ca-e789-4110-b2a0-9f46a450199f",
+    "name": "Fabricated Pistol",
+    "category": "Guns",
+    "type": "Gun Advanced BulletRPSDPS Flashlight Holo-Scope Laser Scope Silencer"
+  },
+  {
+    "id": "1aba7b30-6791-4438-9fda-0d319c4d119c",
+    "name": "Pump-Action Shotgun",
+    "category": "Guns",
+    "type": "Gun Simple Shotgun AmmoRPSDPS Flashlight Holo-Scope Laser Scope"
+  },
+  {
+    "id": "2ffbe1dd-97b0-4e93-b358-708d5960fc3d",
+    "name": "Assault Rifle",
+    "category": "Guns",
+    "type": "Gun Advanced Rifle BulletRPSDPS Flashlight Holo-Scope Laser Silencer"
+  },
+  {
+    "id": "f8433185-85fc-4f22-8fce-a7b2a029f0d2",
+    "name": "Fabricated Sniper Rifle",
+    "category": "Guns",
+    "type": "Gun Advanced Sniper BulletRPSDPS Flashlight Laser Silencer"
+  },
+  {
+    "id": "5ea1c25f-9e14-41c2-b52b-be9297daa5d5",
+    "name": "Flamethrower",
+    "category": "Weapons",
+    "type": "Ranged Flamethrower Ammo"
+  },
+  {
+    "id": "2d202647-a9da-4dec-8db2-aef2c1fdfb20",
+    "name": "Charge Lantern",
+    "category": "Weapons",
+    "type": "Weapon Charge Battery"
+  },
+  {
+    "id": "abdf8106-c883-401a-8ab8-00c93bfa03bb",
+    "name": "Minigun",
+    "category": "Weapons",
+    "type": "Weapon Advanced Rifle Bullet"
+  },
+  {
+    "id": "86d7732b-8392-4a61-bf71-9772d11c074f",
+    "name": "Tek Rifle",
+    "category": "Guns",
+    "type": "Gun ElementRPSDPS"
+  },
+  {
+    "id": "050c558e-1b1c-45b7-bedf-e1d1a5a9946c",
+    "name": "Tek Grenade",
+    "category": "Explosives",
+    "type": "Explosive"
+  },
+  {
+    "id": "5518c365-c7d5-433f-8022-debf33238a08",
+    "name": "Tek Turret",
+    "category": "Emplacements",
+    "type": "Tek Element Shard"
+  },
+  {
+    "id": "4bb3789d-c3b7-441e-b4e9-99d4713daef2",
+    "name": "Tek Sword",
+    "category": "Melee weapons",
+    "type": "Melee Element"
+  },
+  {
+    "id": "6c3eda17-4d52-4b37-a992-043abc4fff7f",
+    "name": "Tek Shield",
+    "category": "Shields",
+    "type": "Shield"
+  },
+  {
+    "id": "3471fbc6-0ab2-45c8-870e-2476b3a271b2",
+    "name": "Tek Railgun",
+    "category": "Guns",
+    "type": "Gun Element"
+  },
+  {
+    "id": "c4540735-7239-4674-9819-060f4018a5b5",
+    "name": "Tek Gravity Grenade",
+    "category": "Explosives",
+    "type": "Explosive"
+  },
+  {
+    "id": "76fe8d47-94bf-4d4d-a3d7-91693c13059c",
+    "name": "Cruise Missile",
+    "category": "Weapons",
+    "type": "Weapon"
+  },
+  {
+    "id": "2039ad7d-ac67-4b7c-a9f7-cc07fa1e73be",
+    "name": "Tek Claws",
+    "category": "Weapons",
+    "type": "Weapon"
+  },
+  {
+    "id": "2e7e8214-2833-476f-ac95-8ba50f8988b0",
+    "name": "Tek Grenade Launcher",
+    "category": "Weapons",
+    "type": "Weapon Grenade Smoke Grenade Poison Grenade Cluster Grenade Tek Grenade Tek Gravity Grenade"
+  },
+  {
+    "id": "a0ccd763-646a-442e-ac63-d4ce13061b16",
+    "name": "Tek Shoulder Cannon",
+    "category": "Weapons",
+    "type": "Weapon Element"
+  },
+  {
+    "id": "01070126-d4de-4bd3-9694-dd5168158ea8",
+    "name": "Tek Phase Pistol",
+    "category": "Weapons",
+    "type": "Weapon"
+  },
+  {
+    "id": "135ea3ba-6d22-488f-8449-f9edcc259cc9",
+    "name": "Tek Bow",
+    "category": "Weapons",
+    "type": "Weapon Element ShardRPS"
+  },
+  {
+    "id": "e24cb525-2ee9-4844-a6b3-6a6810f5c984",
+    "name": "Flashlight",
+    "category": "Attachments",
+    "type": "AttachmentSupply Crate"
+  },
+  {
+    "id": "f82c48f1-013a-47d5-869a-ac8693cd0e05",
+    "name": "Holo-Scope",
+    "category": "Attachments",
+    "type": "AttachmentSupply Crate"
+  },
+  {
+    "id": "d8d91940-67ae-4a5c-be32-db13eded694d",
+    "name": "Laser",
+    "category": "Attachments",
+    "type": "AttachmentSupply Crate"
+  },
+  {
+    "id": "dd64a819-15dd-43da-adcd-c44be1d5bbb8",
+    "name": "Scope",
+    "category": "Attachments",
+    "type": "AttachmentSupply Crate"
+  },
+  {
+    "id": "77079af4-89d6-4dbd-89cc-5c7f0cd0c30c",
+    "name": "Silencer",
+    "category": "Attachments",
+    "type": "AttachmentSupply Crate"
+  },
+  {
+    "id": "d72931d3-2fa0-422f-83c3-93ad4bcf748a",
+    "name": "Grenade",
+    "category": "Explosives",
+    "type": "Explosive"
+  },
+  {
+    "id": "5a80627e-5b3a-4af2-ac0d-603dd9cc70de",
+    "name": "Cluster Grenade",
+    "category": "Explosives",
+    "type": "Grenade"
+  },
+  {
+    "id": "46638270-9366-40ca-8a85-c91885a5dd8f",
+    "name": "Improvised Explosive Device",
+    "category": "Explosives",
+    "type": "Explosive"
+  },
+  {
+    "id": "85e87c49-1ea6-4978-9ae5-887266e2950f",
+    "name": "C4 Charge",
+    "category": "Explosives",
+    "type": "Explosive C4 Remote Detonator"
+  },
+  {
+    "id": "0c702149-45b8-4c1c-ae79-6fa03458613e",
+    "name": "Rocket Launcher",
+    "category": "Guns",
+    "type": "Gun Rocket Propelled Grenade Rocket Homing MissileRPSDPS"
+  },
+  {
+    "id": "ff10346e-a314-4f59-960a-2aa59bfeaeaf",
+    "name": "Homing Underwater Mine",
+    "category": "Explosives",
+    "type": "Explosive"
+  },
+  {
+    "id": "4144fc5d-2070-4279-97ce-c38f421070e3",
+    "name": "Plant Species Z Fruit",
+    "category": "Explosives",
+    "type": "Explosive"
+  },
+  {
+    "id": "84c3a7d7-3a28-489f-9f21-b77e5929841c",
+    "name": "Auto Turret",
+    "category": "Emplacements",
+    "type": "Emplacement Advanced Rifle BulletRPSDPS"
+  },
+  {
+    "id": "86873389-9f3d-40af-a65a-f33d4785b2bb",
+    "name": "Heavy Auto Turret",
+    "category": "Emplacements",
+    "type": "Emplacement Advanced Rifle Bullet"
+  },
+  {
+    "id": "2f486302-d1ad-4dc8-b1e5-a21ce82e0fde",
+    "name": "Ballista Turret",
+    "category": "Emplacements",
+    "type": "Emplacement Spear Bolt Chain BolaRPSDPS"
+  },
+  {
+    "id": "d42a1cb2-9be0-4d4c-a635-afe9908e44ea",
+    "name": "Catapult Turret",
+    "category": "Emplacements",
+    "type": "Emplacement BoulderRPSDPS"
+  },
+  {
+    "id": "eadddbdc-710e-4d34-8087-20d479a66ba0",
+    "name": "Minigun Turret",
+    "category": "Emplacements",
+    "type": "Emplacement Advanced Rifle BulletRPSDPS"
+  },
+  {
+    "id": "9e51e015-47ec-438a-b010-51f8a89b4b34",
+    "name": "Plant Species X",
+    "category": "Emplacements",
+    "type": "EmplacementRPSDPS"
+  },
+  {
+    "id": "063c1624-842d-42c6-9f0d-82c0c48fe884",
+    "name": "Cannon",
+    "category": "Emplacements",
+    "type": "Emplacement Cannon Ball"
+  },
+  {
+    "id": "329e3f55-911b-4d6a-827c-e24cf5b067fd",
+    "name": "Rocket Turret",
+    "category": "Emplacements",
+    "type": "Emplacement Rocket Propelled GrenadeRPSDPS"
+  },
+  {
+    "id": "4849170a-abdf-4bd1-9cf7-1813256c4ed6",
+    "name": "Smoke Grenade",
+    "category": "Explosives",
+    "type": "Weapon204.0"
+  },
+  {
+    "id": "80464127-f980-475b-a489-f1ea7df6f1f8",
+    "name": "Poison Grenade",
+    "category": "Weapons",
+    "type": "Grenade"
+  },
+  {
+    "id": "c5db4027-707c-4f28-9dc3-0b933b5eabb9",
+    "name": "Tripwire Alarm Trap",
+    "category": "Traps",
+    "type": "Trap"
+  },
+  {
+    "id": "61a5e3ec-8ee5-4f5f-b8bf-a769afbab04d",
+    "name": "Tripwire Narcotic Trap",
+    "category": "Traps",
+    "type": "Trap"
+  },
+  {
+    "id": "4e1d6de9-2ffe-49c3-9d1e-535fad87fcd4",
+    "name": "Bear Trap",
+    "category": "Traps",
+    "type": "Trap"
+  },
+  {
+    "id": "12283c71-65b6-4fdc-a938-e75c93f0d256",
+    "name": "Large Bear Trap",
+    "category": "Traps",
+    "type": "Trap"
+  },
+  {
+    "id": "1c0675f2-53e3-4c04-8bb3-a05af67972fc",
+    "name": "Oil Jar",
+    "category": "246.0",
+    "type": "246.0"
+  },
+  {
+    "id": "8d2c9b0d-af50-49e4-88c1-6ff25c59adf6",
+    "name": "Plant Species Y Trap",
+    "category": "Traps",
+    "type": "Trap"
+  },
+  {
+    "id": "a89de153-5a22-44fa-be4e-cfc0e4c0daac",
+    "name": "Cryopod",
+    "category": "Tools",
+    "type": "Tool285.104"
+  },
+  {
+    "id": "508bfdcc-452c-46e7-93d1-6b63d251b0cd",
+    "name": "Scout Remote",
+    "category": "Weapons",
+    "type": "Remote Control Element Dust"
+  }
+]
