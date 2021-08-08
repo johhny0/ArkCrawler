@@ -9,7 +9,6 @@ export class FileService {
 
     writeJson(jsonFile, arrObject) {
         const jsonStr = JSON.stringify(arrObject, null, 2);
-        console.log("JSON STR: ", jsonStr)
         fs.writeFileSync(jsonFile, jsonStr);
         return true;
     }
