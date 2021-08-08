@@ -3,16 +3,16 @@ import { WeaponsCrawler } from "./weaponsCrawler.js";
 import WeaponsRepository from "./weaponsRepository.js";
 
 export class WeaponsService {
-    weaponsRepository = null;
-    weaponsCrawler = null;
+    repository = null;
+    crawler = null;
 
     constructor(dbManager = new DBManager()) {
-        this.weaponsRepository = new WeaponsRepository(dbManager)
-        this.weaponsCrawler = new WeaponsCrawler();
+        this.repository = new WeaponsRepository(dbManager)
+        this.crawler = new WeaponsCrawler();
     }
 
     async getDataFromSite(){
-        return await this.weaponsCrawler.handle();
+        return await this.crawler.handle();
     }
 
     insertAll(weapons = []) {
@@ -28,11 +28,11 @@ export class WeaponsService {
     }
 
     insert(weapon) {
-        this.weaponsRepository.insert(weapon);
+        this.repository.insert(weapon);
     }
 
     createTable() {
-        this.weaponsRepository.createTable();
+        this.repository.createTable();
     }
 }
 
