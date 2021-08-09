@@ -7,8 +7,8 @@ export const sqlInsertBossesTable = 'INSERT INTO bosses (id, name) VALUES(?, ?)'
 export const sqlCreateDinosTable = 'CREATE TABLE IF NOT EXISTS dinos (id TEXT UNIQUE, name TEXT, diet TEXT, temperament TEXT, tameable BOOLEAN, rideable BOOLEAN, breedable BOOLEAN, saddle TEXT)';
 export const sqlInsertDinosTable = 'INSERT INTO dinos (id, name, diet, temperament, tameable, rideable, breedable, saddle) VALUES(?, ?, ?, ?, ?, ?, ?, ?)';
 
-export const sqlCreateArmorsTable = '';
-export const sqlInsertArmorsTable = '';
+export const sqlCreateArmorsTable = 'CREATE TABLE IF NOT EXISTS armors (id TEXT UNIQUE, name TEXT, type TEXT)';
+export const sqlInsertArmorsTable = 'INSERT INTO armors (id, name, type) VALUES(?, ?, ?)';
 
 
 export default {

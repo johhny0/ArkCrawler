@@ -24,7 +24,7 @@ export class ArmorsService {
             await this.insert(armor);
 
             const percent = (insertedArmors++ / allArmorsLength) * 100
-            console.log(`PERSISTING DINOS -- ${percent.toFixed(2)}%`);
+            console.log(`PERSISTING ARMORS -- ${percent.toFixed(2)}%`);
         }
     }
 

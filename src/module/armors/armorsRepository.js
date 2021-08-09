@@ -14,7 +14,7 @@ export class ArmorsRepository {
     }
 
     async insert(armor) {
-        const armorParameter = [armor.id, armor.name, armor.diet, armor.temperament, armor.tameable, armor.rideable, armor.breedable, armor.saddle]
+        const armorParameter = [armor.id, armor.name, armor.type]
         await this.dbManager.insert(sqlInsertArmorsTable, armorParameter);
     }
 

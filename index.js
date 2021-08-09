@@ -15,16 +15,15 @@ async function main() {
     const dbManager = new DBManager(env.CONNECTION_DATABASE);
     const fileService = new FileService();
 
-    // await dbManager.restart(['dinos', 'bosses', 'weapons'])
-    await dbManager.restart(['armors'])
+    await dbManager.restart(['dinos', 'bosses', 'weapons', 'armors'])
 
     await armorsAction(dbManager, fileService)
 
-    // await weaponsActions(dbManager, fileService)
+    await weaponsActions(dbManager, fileService)
 
-    // await bossesActions(dbManager, fileService)
+    await bossesActions(dbManager, fileService)
 
-    // await dinosActions(dbManager, fileService)
+    await dinosActions(dbManager, fileService)
 
     dbManager.close()
 }
@@ -36,11 +35,11 @@ async function armorsAction(dbManager, fileService) {
 
     fileService.writeJson(filePath.armorsFilePath, arrFromSite)
 
-    // await service.createTable();
+    await service.createTable();
 
-    // const arrFromJson = fileService.readJson(filePath.dinosFilePath);
+    const arrFromJson = fileService.readJson(filePath.armorsFilePath);
 
-    // await service.insertAll(arrFromJson);
+    await service.insertAll(arrFromJson);
 }
 
 async function dinosActions(dbManager, fileService) {
