@@ -66,7 +66,7 @@ export class DinosCrawler {
             dinos.push(dino)
 
             const percent = (dinos.length / totalDinosLength) * 100
-            console.log(`${name} --> ${dinos.length}/${totalDinosLength} = ${percent}`)
+            console.log(`CRAWLING DINOS -- ${percent.toFixed(2)}%`)
         }
 
         return dinos;

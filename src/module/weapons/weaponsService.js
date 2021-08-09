@@ -11,28 +11,28 @@ export class WeaponsService {
         this.crawler = new WeaponsCrawler();
     }
 
-    async getDataFromSite(){
+    async getDataFromSite() {
         return await this.crawler.handle();
     }
 
-    insertAll(weapons = []) {
+    async insertAll(weapons = []) {
         const allWeaponsLength = weapons.length;
         let insertedWeapons = 0;
 
-        weapons.forEach(weapon => {
-            this.insert(weapon);
+        for (const weapon of weapons) {
+            await this.insert(weapon);
 
             const percent = (insertedWeapons++ / allWeaponsLength) * 100
-            console.log("Weapons:", percent.toFixed(2));
-        });
+            console.log(`PERSISTING WEAPONS -- ${percent.toFixed(2)}%`);
+        }
     }
 
-    insert(weapon) {
-        this.repository.insert(weapon);
+    async insert(weapon) {
+        await this.repository.insert(weapon);
     }
 
-    createTable() {
-        this.repository.createTable();
+    async createTable() {
+        await this.repository.createTable();
     }
 }
 

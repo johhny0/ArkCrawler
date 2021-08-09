@@ -15,27 +15,28 @@ export class BossesService {
         return await this.crawler.handle();
     }
 
-    insertAll(bosses = []) {
+    async insertAll(bosses = []) {
         const steamName = "Steam.svg";
         const allBossesLength = bosses.length;
         let insertedBosses = 0;
 
-        bosses.forEach(boss => {
+        for (const boss of bosses) {
             if (boss.releases.includes(steamName)) {
-                this.insert(boss);
+                await this.insert(boss);
             }
 
             const percent = (insertedBosses++ / allBossesLength) * 100
-            console.log("Bosses:", percent.toFixed(2));
-        });
+            console.log(`PERSISTING BOSSES -- ${percent.toFixed(2)}%`);
+        }
+
     }
 
-    insert(boss) {
-        this.repository.insert(boss);
+    async insert(boss) {
+        await this.repository.insert(boss);
     }
 
-    createTable() {
-        this.repository.createTable();
+    async createTable() {
+        await this.repository.createTable();
     }
 }
 

@@ -36,7 +36,7 @@ export class WeaponsCrawler {
             weapons.push(weapon);
 
             const percent = (weapons.length / totalWeaponsLength) * 100
-            console.log(`${weaponName} --> ${weapons.length}/${totalWeaponsLength} = ${percent.toFixed(2)}`)
+            console.log(`CRAWLING WEAPONS -- ${percent.toFixed(2)}%`)
         }
 
         return weapons;

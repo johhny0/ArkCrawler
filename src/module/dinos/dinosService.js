@@ -27,7 +27,7 @@ export class DinosService {
             }
 
             const percent = (insertedDinos++ / allDinosLength) * 100
-            console.log("Dinos:", percent.toFixed(2));
+            console.log(`PERSISTING DINOS -- ${percent.toFixed(2)}%`);
         }
     }
 

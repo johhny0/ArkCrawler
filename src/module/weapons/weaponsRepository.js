@@ -9,13 +9,13 @@ export class WeaponsRepository {
         this.dbManager = dbManager
     }
 
-    createTable() {
-        this.dbManager.createTable(sqlCreateWeaponsTable)
+    async createTable() {
+        await this.dbManager.createTable(sqlCreateWeaponsTable)
     }
 
-    insert(weapon) {
+    async insert(weapon) {
         const weaponParameter = [weapon.id, weapon.name, weapon.category];
-        this.dbManager.insert(sqlInsertWeaponsTable, weaponParameter);
+        await this.dbManager.insert(sqlInsertWeaponsTable, weaponParameter);
     }
 
 }

@@ -14,11 +14,13 @@ async function main() {
     const dbManager = new DBManager(env.CONNECTION_DATABASE);
     const fileService = new FileService();
 
-    weaponsActions(dbManager, fileService)
+    await dbManager.restart(['dinos', 'bosses', 'weapons'])
 
-    bossesActions(dbManager, fileService)
+    await weaponsActions(dbManager, fileService)
 
-    dinosActions(dbManager, fileService)
+    await bossesActions(dbManager, fileService)
+
+    await dinosActions(dbManager, fileService)
 
     dbManager.close()
 }

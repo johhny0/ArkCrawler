@@ -15,11 +15,22 @@ export class DBManager {
         this.db.close()
     }
 
+    restart(tables = []) {
+        return new Promise((resolve, reject) => {
+            for (const table of tables) {
+                try {
+                    this.db.run(`DROP TABLE IF EXISTS ${table}`, err => { if (err) throw err })
+                } catch (error) {
+                    return reject(error);
+                }
+            }
+            return resolve();
+        });
+    }
+
     createTable(sql = "") {
         return new Promise((resolve, reject) => {
-            return this.db.run("DROP TABLE IF EXISTS DINOS;", () => {
-                return this.db.run(sql, err => this.promiseResolve(reject, resolve, err));
-            });
+            return this.db.run(sql, err => this.promiseResolve(reject, resolve, err));
         });
     }
 

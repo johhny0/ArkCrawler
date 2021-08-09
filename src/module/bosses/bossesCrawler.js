@@ -65,7 +65,7 @@ export class BossesCrawler {
             bosses.push(boss)
 
             const percent = (bosses.length / totalBossesLength) * 100
-            console.log(`${name} --> ${bosses.length}/${totalBossesLength} = ${percent.toFixed(2)}`)
+            console.log(`CRAWLING BOSSES -- ${percent.toFixed(2)}%`)
         }
 
         return bosses;

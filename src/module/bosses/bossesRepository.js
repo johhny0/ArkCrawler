@@ -9,13 +9,13 @@ export class BossesRepository {
         this.dbManager = dbManager
     }
 
-    createTable() {
-        this.dbManager.createTable(sqlCreateBossesTable)
+    async createTable() {
+        await this.dbManager.createTable(sqlCreateBossesTable)
     }
 
-    insert(boss) {
+    async insert(boss) {
         const bossParameter = [boss.id, boss.name];
-        this.dbManager.insert(sqlInsertBossesTable, bossParameter);
+        await this.dbManager.insert(sqlInsertBossesTable, bossParameter);
     }
 
 }
