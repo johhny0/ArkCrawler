@@ -13,9 +13,9 @@ export class BossesRepository {
         this.dbManager.createTable(sqlCreateBossesTable)
     }
 
-    insert(bosses) {
-        const bossesParameter = [bosses.id, bosses.name];
-        this.dbManager.insert(sqlInsertBossesTable, bossesParameter);
+    insert(boss) {
+        const bossParameter = [boss.id, boss.name];
+        this.dbManager.insert(sqlInsertBossesTable, bossParameter);
     }
 
 }

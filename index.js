@@ -2,6 +2,7 @@ import { config } from "dotenv";
 
 import filePath from "./src/constants/arkFilePath.js";
 import BossesService from "./src/module/bosses/bossesService.js";
+import DinosService from "./src/module/dinos/dinosService.js";
 import { WeaponsService } from "./src/module/weapons/weaponsService.js";
 import { DBManager } from "./src/services/dbManager.js";
 import { FileService } from "./src/services/fileService.js";
@@ -13,14 +14,27 @@ async function main() {
     const dbManager = new DBManager(env.CONNECTION_DATABASE);
     const fileService = new FileService();
 
-    // weaponsActions(dbManager, fileService)
+    weaponsActions(dbManager, fileService)
 
     bossesActions(dbManager, fileService)
 
-    // GET DINOS
-    // INSERT DINOS
+    dinosActions(dbManager, fileService)
 
     dbManager.close()
+}
+
+async function dinosActions(dbManager, fileService) {
+    const service = new DinosService(dbManager);
+
+    const arrFromSite = await service.getDataFromSite();
+
+    fileService.writeJson(filePath.dinosFilePath, arrFromSite)
+
+    await service.createTable();
+
+    const arrFromJson = fileService.readJson(filePath.dinosFilePath);
+
+    await service.insertAll(arrFromJson);
 }
 
 async function bossesActions(dbManager, fileService) {
@@ -30,11 +44,11 @@ async function bossesActions(dbManager, fileService) {
 
     fileService.writeJson(filePath.bossesFilePath, arrFromSite)
 
-    service.createTable();
+    await service.createTable();
 
     const arrFromJson = fileService.readJson(filePath.bossesFilePath);
 
-    service.insertAll(arrFromJson);
+    await service.insertAll(arrFromJson);
 }
 
 async function weaponsActions(dbManager, fileService) {
@@ -44,11 +58,11 @@ async function weaponsActions(dbManager, fileService) {
 
     fileService.writeJson(filePath.weaponsFilePath, arrFromSite)
 
-    service.createTable();
+    await service.createTable();
 
     const arrFromJson = fileService.readJson(filePath.weaponsFilePath);
 
-    service.insertAll(arrFromJson);
+    await service.insertAll(arrFromJson);
 }
 
 
