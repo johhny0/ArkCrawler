@@ -1,0 +1,272 @@
+[
+  {
+    "id": "31537b8f-01b2-4ddf-bccf-52b602b57bb1",
+    "name": "Cloth Hat",
+    "type": "Cloth"
+  },
+  {
+    "id": "94c85bb4-449e-46a3-941b-59d5bf454191",
+    "name": "Cloth Shirt",
+    "type": "Cloth"
+  },
+  {
+    "id": "31cd01fd-8f6a-40e5-9158-0cbe92d28a1e",
+    "name": "Cloth Gloves",
+    "type": "Cloth"
+  },
+  {
+    "id": "2f39ba4e-4c8e-4311-883c-277bb424e322",
+    "name": "Cloth Pants",
+    "type": "Cloth"
+  },
+  {
+    "id": "e44ff7d5-3240-42b0-b4c4-980e2b600218",
+    "name": "Cloth Boots",
+    "type": "Cloth"
+  },
+  {
+    "id": "90b41dce-7e81-43e6-a22e-f06fbbd22e7c",
+    "name": "Hide Hat",
+    "type": "Hide"
+  },
+  {
+    "id": "a0d0b897-4279-43f5-8de1-3061ca2ba713",
+    "name": "Hide Shirt",
+    "type": "Hide"
+  },
+  {
+    "id": "9eff6f37-2351-43af-bc48-1c7c65a5f466",
+    "name": "Hide Gloves",
+    "type": "Hide"
+  },
+  {
+    "id": "81d80137-2bf1-453c-bc56-02194dcfe044",
+    "name": "Hide Pants",
+    "type": "Hide"
+  },
+  {
+    "id": "fe7d0381-f2c9-419d-9929-e696ddcacdd2",
+    "name": "Hide Boots",
+    "type": "Hide"
+  },
+  {
+    "id": "18382f19-89ca-4fe7-9cbc-469ef6bbbff6",
+    "name": "Fur Cap",
+    "type": "Fur"
+  },
+  {
+    "id": "3d1ebd43-307d-4e27-b95c-9171dfe78876",
+    "name": "Fur Chestpiece",
+    "type": "Fur"
+  },
+  {
+    "id": "e3959a64-166e-4254-95e1-a30b43550a4b",
+    "name": "Fur Gauntlets",
+    "type": "Fur"
+  },
+  {
+    "id": "df1faa48-0704-4e3a-8448-6127da2ff2eb",
+    "name": "Fur Leggings",
+    "type": "Fur"
+  },
+  {
+    "id": "213fac49-39c9-400b-9717-db02c5187e25",
+    "name": "Fur Boots",
+    "type": "Fur"
+  },
+  {
+    "id": "0f32a79d-6b8b-4fcf-8fec-f4ee38e7a33c",
+    "name": "Desert Goggles and Hat",
+    "type": "Scorched Earth"
+  },
+  {
+    "id": "1d2527bc-4dc7-4ba1-8b5b-6c1a019575fc",
+    "name": "Desert Cloth Shirt",
+    "type": "Scorched Earth"
+  },
+  {
+    "id": "fe4848d9-651f-4f50-bc39-001d312901e9",
+    "name": "Desert Cloth Gloves",
+    "type": "Scorched Earth"
+  },
+  {
+    "id": "e9bfa6a3-fb93-4d83-9059-457c7a9f9db0",
+    "name": "Desert Cloth Pants",
+    "type": "Scorched Earth"
+  },
+  {
+    "id": "559b6267-7905-4b45-9187-7fc2ac6cc50a",
+    "name": "Desert Cloth Boots",
+    "type": "Scorched Earth"
+  },
+  {
+    "id": "f2f19253-8282-44fd-bde9-1ee03c73fca1",
+    "name": "Ghillie Mask",
+    "type": "Ghillie"
+  },
+  {
+    "id": "b29c7c7d-731d-4bc9-8533-ea741ba063f4",
+    "name": "Ghillie Chestpiece",
+    "type": "Ghillie"
+  },
+  {
+    "id": "f977d7a6-6335-454d-9509-05e0d6203e9d",
+    "name": "Ghillie Gauntlets",
+    "type": "Ghillie"
+  },
+  {
+    "id": "98b093f9-545d-4e2d-8e78-8e428ed466f3",
+    "name": "Ghillie Leggings",
+    "type": "Ghillie"
+  },
+  {
+    "id": "a1bab0bc-c9e7-4d77-83fd-e230b9a3a30a",
+    "name": "Ghillie Boots",
+    "type": "Ghillie"
+  },
+  {
+    "id": "8870275a-6bf3-4754-841e-fd3cdc102279",
+    "name": "Chitin Helmet",
+    "type": "Chitin"
+  },
+  {
+    "id": "9c491452-193f-4045-af9d-08c3b97a5b91",
+    "name": "Chitin Chestpiece",
+    "type": "Chitin"
+  },
+  {
+    "id": "f36041f3-9b31-465c-be54-b9ea618e3fce",
+    "name": "Chitin Gauntlets",
+    "type": "Chitin"
+  },
+  {
+    "id": "b0b44e2f-b129-433f-999d-c00b9b7ef33a",
+    "name": "Chitin Leggings",
+    "type": "Chitin"
+  },
+  {
+    "id": "a7479047-90cb-4ea2-9c78-b14615f5c3ba",
+    "name": "Chitin Boots",
+    "type": "Chitin"
+  },
+  {
+    "id": "12cea538-d072-4824-b1da-74bdc382c1ec",
+    "name": "Flak Helmet",
+    "type": "Flak"
+  },
+  {
+    "id": "87907ef1-c94e-4822-9e63-9e35e28396e3",
+    "name": "Flak Chestpiece",
+    "type": "Flak"
+  },
+  {
+    "id": "f30c5fb0-bf51-4219-8b76-74564d18879d",
+    "name": "Flak Gauntlets",
+    "type": "Flak"
+  },
+  {
+    "id": "0b4d529a-8bb9-4010-9ad9-d1ffa4ad4d51",
+    "name": "Flak Leggings",
+    "type": "Flak"
+  },
+  {
+    "id": "bf59ddcb-51b8-4dbc-9f48-1294bfcee095",
+    "name": "Flak Boots",
+    "type": "Flak"
+  },
+  {
+    "id": "be681f75-8012-46d7-b24d-9e255b882240",
+    "name": "Hazard Suit Hat",
+    "type": "Aberration"
+  },
+  {
+    "id": "ff9ec356-6e81-4eb4-b5f4-63b52bceb8b6",
+    "name": "Hazard Suit Shirt",
+    "type": "Aberration"
+  },
+  {
+    "id": "aaebba6b-7663-4ba9-b513-2a0c2c139dc1",
+    "name": "Hazard Suit Gloves",
+    "type": "Aberration"
+  },
+  {
+    "id": "32b5965f-bdba-4f12-b9d8-4522a6276c17",
+    "name": "Hazard Suit Pants",
+    "type": "Aberration"
+  },
+  {
+    "id": "fcafc2e9-919e-423e-843f-f845c7c9fdec",
+    "name": "Hazard Suit Boots",
+    "type": "Aberration"
+  },
+  {
+    "id": "2c69f266-9ba5-4033-a48e-829172d77a76",
+    "name": "SCUBA Mask",
+    "type": "SCUBA"
+  },
+  {
+    "id": "af03fdd7-623f-402e-a425-ae3184513e0f",
+    "name": "SCUBA Tank",
+    "type": "SCUBA"
+  },
+  {
+    "id": "4db1de6f-662a-47eb-bd42-51c5cd8b982c",
+    "name": "SCUBA Leggings",
+    "type": "SCUBA"
+  },
+  {
+    "id": "2426be18-e6c5-47b9-a89f-3cbab01503a0",
+    "name": "SCUBA Flippers",
+    "type": "SCUBA"
+  },
+  {
+    "id": "327436a1-562f-4e23-9d8c-4436f6e49474",
+    "name": "Riot Helmet",
+    "type": "Riot"
+  },
+  {
+    "id": "191a0b5d-2eea-40f9-a42a-0e5dfc85ac99",
+    "name": "Riot Chestpiece",
+    "type": "Riot"
+  },
+  {
+    "id": "743eb240-4a13-4241-80e0-82da7d29c2b2",
+    "name": "Riot Gauntlets",
+    "type": "Riot"
+  },
+  {
+    "id": "a76049ca-e749-4dc9-b18f-e6052d3565e4",
+    "name": "Riot Leggings",
+    "type": "Riot"
+  },
+  {
+    "id": "843fe352-59e7-4f8e-ab7f-4ed0e5e9e178",
+    "name": "Riot Boots",
+    "type": "Riot"
+  },
+  {
+    "id": "aad38145-8c29-4b42-a734-32babebfb695",
+    "name": "Tek Helmet",
+    "type": "Tek"
+  },
+  {
+    "id": "b75b0963-901d-4528-9433-87865649086b",
+    "name": "Tek Chestpiece",
+    "type": "Tek"
+  },
+  {
+    "id": "43b06f71-b8e9-400e-8a15-50421a358914",
+    "name": "Tek Gauntlets",
+    "type": "Tek"
+  },
+  {
+    "id": "7496e7a8-d715-4df9-96f7-741cf5f9bf51",
+    "name": "Tek Leggings",
+    "type": "Tek"
+  },
+  {
+    "id": "d81ba78c-8671-47e1-b089-6db9f8cf6ed9",
+    "name": "Tek Boots",
+    "type": "Tek"
+  }
+]

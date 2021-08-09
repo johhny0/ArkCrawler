@@ -1,9 +1,10 @@
 import { config } from "dotenv";
 
 import filePath from "./src/constants/arkFilePath.js";
-import BossesService from "./src/module/bosses/bossesService.js";
-import DinosService from "./src/module/dinos/dinosService.js";
+import { BossesService } from "./src/module/bosses/bossesService.js";
+import { DinosService } from "./src/module/dinos/dinosService.js";
 import { WeaponsService } from "./src/module/weapons/weaponsService.js";
+import { ArmorsService } from "./src/module/armors/armorsService.js";
 import { DBManager } from "./src/services/dbManager.js";
 import { FileService } from "./src/services/fileService.js";
 
@@ -14,15 +15,32 @@ async function main() {
     const dbManager = new DBManager(env.CONNECTION_DATABASE);
     const fileService = new FileService();
 
-    await dbManager.restart(['dinos', 'bosses', 'weapons'])
+    // await dbManager.restart(['dinos', 'bosses', 'weapons'])
+    await dbManager.restart(['armors'])
 
-    await weaponsActions(dbManager, fileService)
+    await armorsAction(dbManager, fileService)
 
-    await bossesActions(dbManager, fileService)
+    // await weaponsActions(dbManager, fileService)
 
-    await dinosActions(dbManager, fileService)
+    // await bossesActions(dbManager, fileService)
+
+    // await dinosActions(dbManager, fileService)
 
     dbManager.close()
+}
+
+async function armorsAction(dbManager, fileService) {
+    const service = new ArmorsService(dbManager);
+
+    const arrFromSite = await service.getDataFromSite();
+
+    fileService.writeJson(filePath.armorsFilePath, arrFromSite)
+
+    // await service.createTable();
+
+    // const arrFromJson = fileService.readJson(filePath.dinosFilePath);
+
+    // await service.insertAll(arrFromJson);
 }
 
 async function dinosActions(dbManager, fileService) {

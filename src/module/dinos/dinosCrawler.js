@@ -32,7 +32,6 @@ export class DinosCrawler {
                 releases.push(releaseName)
             })
 
-            console.log("-------------------------------------------")
             // COL DIET
             const diet = $(columns[dinoColumn.ColumnDiet]).text().trim()
 
